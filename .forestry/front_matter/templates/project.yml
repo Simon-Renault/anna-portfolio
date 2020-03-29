@@ -2,6 +2,15 @@
 label: Project
 hide_body: false
 fields:
+- name: project_date
+  type: datetime
+  label: Project date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  description: The date when the project happened
 - type: file
   name: thumbnail
   label: Thumbnail
@@ -22,16 +31,13 @@ fields:
     display_utc: true
   default: now
   hidden: true
-- type: tag_list
-  name: categories
-  label: Categories
-- type: color
-  name: project_bg_color
+- name: content
+  type: textarea
+  default: Nothing written yet
   config:
-    color_format: Hex
-  label: Background color
-- type: color
-  name: project_fg_color
-  config:
-    color_format: Hex
-  label: Foreground color
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Content
+  description: the content of the project
