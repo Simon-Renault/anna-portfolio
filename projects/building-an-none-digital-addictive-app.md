@@ -4,6 +4,7 @@ content: Nothing written yet
 project_date: 2020-03-18T00:00:00Z
 thumbnail: "/uploads/placeholder__1.png"
 title: Mamie mange du pain
+intro: Une belle intro
 
 ---
 ## They’re strong storytellers
