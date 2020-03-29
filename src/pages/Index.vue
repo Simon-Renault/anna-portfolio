@@ -49,7 +49,7 @@ query CaseStudies {
                 id
                 date (format: "YYYY")
                 title
-                thumbnail (height:500,width:500,quality: 50)
+                thumbnail (width:400,quality: 50)
                 path
             }
         }
@@ -60,7 +60,7 @@ query CaseStudies {
                 id
                 date (format: "YYYY")
                 title
-                thumbnail (height:300,width:300,quality: 50)
+                thumbnail (width:200,quality: 50)
                 path
             }
         }

@@ -1,19 +1,19 @@
 <template>
    <LayoutPost>
    <main class="project_page main">
-            <div class="sumup">
-                <div class="heading">
-                    <h2 class="project_title center">{{$page.post.title}}</h2>
-                    <h3 class="date caption center">{{$page.post.date}}</h3>
-                </div>
-                <img class="image_summary" src="//placeholder_large.png" alt="">
-                <p class="courant_italic">{{$page.post.intro}}</p>
+        <div class="sumup">
+            <div class="heading">
+                <h2 class="project_title center">{{$page.post.title}}</h2>
+                <h3 class="date caption center">{{$page.post.date}}</h3>
             </div>
-            <div class="separator"></div>
-            <div class="content" v-html="$page.post.content">
-               
-            </div>
-        </main>
+            <img class="image_summary" :src="$page.post.thumbnail.src" alt="">
+            <p class="courant_italic">{{$page.post.intro}}</p>
+        </div>
+        <div class="separator"></div>
+        <div class="content" v-html="$page.post.content">
+            
+        </div>
+    </main>
 
    
   </LayoutPost>
@@ -24,7 +24,8 @@ query ProjectPost ($path: String!) {
   post: caseStudyPost (path: $path) {
     title
     intro
-    date (format: "YYYY")
+    date (format:"MMMM DD, YYYY")
+    thumbnail (height:500,width:1000,quality: 50)
     content
   }
 }
