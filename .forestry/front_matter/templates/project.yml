@@ -31,6 +31,16 @@ fields:
     display_utc: true
   default: now
   hidden: true
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: intro
+  description: quick intro to the project
 pages:
 - case_studies/the-case-study.md
 - projects/building-an-none-digital-addictive-app.md
