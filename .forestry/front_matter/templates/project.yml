@@ -31,16 +31,6 @@ fields:
     display_utc: true
   default: now
   hidden: true
-- name: content
-  type: textarea
-  default: Nothing written yet
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Content
-  description: the content of the project
 pages:
 - case_studies/the-case-study.md
 - projects/building-an-none-digital-addictive-app.md
