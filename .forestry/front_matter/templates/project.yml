@@ -41,3 +41,5 @@ fields:
       format: markdown
   label: Content
   description: the content of the project
+pages:
+- projects/building-an-none-digital-addictive-app.md
