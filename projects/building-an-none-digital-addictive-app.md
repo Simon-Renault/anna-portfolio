@@ -6,7 +6,7 @@ thumbnail: "/uploads/placeholder__1.png"
 title: Mamie mange du pain
 
 ---
-They’re strong storytellers
+## They’re strong storytellers
 
 Being strategic starts with knowing where you are and figuring out your long-term North Star vision. Your strategy is the path you’re going to take to get there.
 
