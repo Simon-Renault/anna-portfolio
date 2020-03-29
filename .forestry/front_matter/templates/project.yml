@@ -42,4 +42,5 @@ fields:
   label: Content
   description: the content of the project
 pages:
+- case_studies/the-case-study.md
 - projects/building-an-none-digital-addictive-app.md
