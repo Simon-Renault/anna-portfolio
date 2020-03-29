@@ -8,27 +8,39 @@ fields:
 - type: textarea
   name: site_description
   label: Site description
-- type: textarea
-  name: hero_title
+- name: hero_title
+  type: text
+  config:
+    required: false
   label: Hero title
-  config:
-    wysiwyg: true
-    schema:
-      format: html
 - type: textarea
-  name: hero_subtitle
-  label: Hero subtitle
+  name: hero_text
   config:
     wysiwyg: true
     schema:
       format: html
-- name: footer
-  label: Footer text
+  label: Hero text
+- name: copyright
   type: text
   hidden: false
   default: ''
+  label: copyright
 - type: boolean
   name: dark_mode
   label: Dark mode
+- name: footer_title
+  type: text
+  config:
+    required: false
+  label: Footer title
+- name: footer_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Footer text
 pages:
 - data/theme.json
