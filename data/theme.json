@@ -3,6 +3,10 @@
   "dark_mode": false,
   "site_name": "Anna Rabeony - Portfolio",
   "site_description": "Product designer",
-  "hero_title": "Simplicity. Aesthetics. Value.",
-  "hero_subtitle": "Hi there, I'm an independent Digital Designer &amp; Art Director focused on digital design for brands that like to have fun."
+  "hero_title": "Hi there, I’m Anna",
+  "hero_subtitle": "<em>I’m a Product Design Student based in Shanghai, previously interned with Ucaya, Nantes and currently working as a UI/UX design Intern at Wiredcraft, in Shanghai. If you’re interested in getting in touch, feel free to contact me</em>",
+  "hero_text": "<strong><em>I’m a Product Design Student based in Shanghai, previously interned with Ucaya, Nantes and currently working as a UI/UX design Intern at Wiredcraft, in Shanghai. If you’re interested in getting in touch, feel free to contact me</em></strong>",
+  "copyright": "Gros copyright anna 2020",
+  "footer_title": "",
+  "footer_text": ""
 }
