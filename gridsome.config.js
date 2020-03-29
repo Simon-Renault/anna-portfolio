@@ -2,17 +2,17 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
+  siteName: "Portfolio of Anna Rabeony",
   siteUrl: `https://www.itsnwa.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - Anna Rabeony",
+  siteDescription: "Creative designer and unicorn",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
       options: {
-        path: "projects/**/*.md",
-        typeName: "ProjectPost",
+        path: "case_studies/**/*.md",
+        typeName: "CaseStudyPost",
         resolveAbsolutePaths: true,
         remark: {
           externalLinksTarget: "_blank",
@@ -21,17 +21,17 @@ module.exports = {
       }
     },
     {
-      use: "@gridsome/source-filesystem",
-      options: {
-        path: "journal/**/*.md",
-        typeName: "JournalPost",
-        resolveAbsolutePaths: true,
-        remark: {
-          externalLinksTarget: "_blank",
-          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
+        use: "@gridsome/source-filesystem",
+        options: {
+          path: "projects/**/*.md",
+          typeName: "ProjectPost",
+          resolveAbsolutePaths: true,
+          remark: {
+            externalLinksTarget: "_blank",
+            externalLinksRel: ["nofollow", "noopener", "noreferrer"]
+          }
         }
       }
-    }
   ],
   transformers: {
     remark: {

@@ -1,0 +1,357 @@
+/* LES BASES */
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900&display=swap");
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Serif:300,300i,400,400i,500,500i,600,600i,700,700i&display=swap");
+html {
+  overflow-x: hidden; }
+
+:root {
+  font-size: 20px;
+  overflow-x: hidden; }
+
+body {
+  font-family: 'Playfair Display', serif;
+  overflow-x: hidden; }
+  body a {
+    text-decoration: none;
+    color: #2C2C2C; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+/* VARIABLES */
+/* FONTS IMPORTS */
+/* geomanist */
+@font-face {
+  font-family: "Geomanist";
+  src: url(/Typefaces/Geomanist/geomanist-bold-webfont.woff) format("woff");
+  font-weight: 800; }
+
+@font-face {
+  font-family: "Geomanist";
+  src: url(/Typefaces/Geomanist/geomanist-medium-webfont.woff) format("woff");
+  font-weight: 700; }
+
+@font-face {
+  font-family: "Geomanist";
+  src: url(/Typefaces/Geomanist/geomanist-book-webfont.woff) format("woff");
+  font-weight: 600; }
+
+@font-face {
+  font-family: "Geomanist";
+  src: url(/Typefaces/Geomanist/geomanist-regular-webfont.woff) format("woff");
+  font-weight: 500; }
+
+/* Playfair Display */
+/* IBM Plex Serif */
+/* TEXT STYLES */
+.project_title {
+  font-family: 'Geomanist', sans serif;
+  color: dark;
+  font-size: 2.8rem;
+  font-weight: 700; }
+
+.subtitle_bold {
+  font-family: 'Geomanist', sans serif;
+  color: #2C2C2C;
+  font-size: 1.4rem;
+  font-weight: 800;
+  padding: 0 0 2rem 0; }
+
+.quote_italic {
+  font-family: 'IBM Plex Serif', serif;
+  color: #3a3a3a;
+  font-style: italic;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 2.4rem;
+  padding: 0 3rem; }
+
+.courant_bold {
+  font-family: 'IBM Plex Serif', serif;
+  color: #2C2C2C;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 2.1rem; }
+
+.courant_regular {
+  font-family: 'IBM Plex Serif', serif;
+  color: #3a3a3a;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2rem; }
+
+.courant_italic {
+  font-family: 'IBM Plex Serif', serif;
+  color: #3a3a3a;
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 2.2rem; }
+
+.footer_italic {
+  font-family: 'IBM Plex Serif', serif;
+  color: #3a3a3a;
+  font-style: italic;
+  font-size: 1rem;
+  font-weight: 400; }
+
+.caption {
+  font-family: 'Geomanist', sans serif;
+  color: #9397A5;
+  font-size: 1rem;
+  font-weight: 400; }
+
+.highlight {
+  font-family: 'IBM Plex Serif', serif;
+  color: #2C2C2C;
+  font-weight: 800; }
+
+.center {
+  text-align: center; }
+
+.opacity_50 {
+  opacity: 0.5; }
+
+/* LAYOUT */
+.margin-body {
+  padding: 4rem 0 3rem 0; }
+
+.hidden {
+  display: none; }
+
+.center {
+  text-align: center; }
+
+.header {
+  min-height: 100vh;
+  display: flex;
+ 
+  flex-direction: column;
+  justify-content: space-between; }
+
+.fixed_header {
+  padding: 1.5rem 0;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  display: flex;
+  top:0;
+  flex-direction: row;
+  justify-content: center; }
+
+.blank {
+  height: 1px;
+  padding: 1.5rem 0; }
+
+.bg-grey {
+  background-color: #FAFAFA; }
+
+.bg-white {
+  background-color: #FFFFFF; }
+
+.intro {
+  background-color: #FAFAFA;
+  padding: 0rem 28vw 10rem 28vw; }
+  .intro .project_title {
+    margin: 0 0 1rem 0; }
+  .intro h2 {
+    padding: 5rem 0 0 0; }
+
+.scroll {
+  padding: 3rem 28vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center; }
+  .scroll img {
+    opacity: 0.4; }
+  .scroll h5 {
+    font-size: 0.9rem; }
+
+/* Main */
+main {
+  margin: 10rem 28vw;
+  /* homepage */ }
+  main .case_studies .courant_italic {
+    font-size: 1.4rem;
+    line-height: 2.1rem; }
+  main .main_projects .courant_italic {
+    font-size: 1.2rem;
+    line-height: 1.8rem; }
+  main .main_projects {
+    display: flex; }
+  main .projects_section {
+    margin: 0px 0 5rem 0; }
+    main .projects_section .card_project {
+      transition: 0.4s ease; }
+      main .projects_section .card_project .image_container img {
+        width: 100%;
+        border-radius: 3px; }
+      main .projects_section .card_project .description {
+        margin: 1rem 0 0 0; }
+    main .projects_section .card_project:hover {
+      transform: translateY(-20px);
+      transition: 0.4s ease; }
+    main .projects_section .margin_right {
+      margin: 0 2rem 0 0; }
+  main .grid-col2 {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 3rem; }
+    main .grid-col2 .card_project {
+      margin: 0 0 2rem 0; }
+  main .grid-col3 {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 5rem 0rem; }
+    main .grid-col3 .card_project {
+      margin: 0 0 2rem 0; }
+  main .main_projects .margin_right {
+    margin: 0 2rem 0 0; }
+
+/* project page */
+.project_page {
+  margin: 10rem 28vw; }
+  .project_page .sumup .project_title {
+    padding: 0 4rem; }
+  .project_page .sumup .date {
+    margin: 1rem 0; }
+  .project_page img {
+    width: 100%;
+    margin: 2rem 0; }
+  .project_page .separator {
+    height: 1px;
+    width: 10%;
+    background-color: #d4d4d4c9;
+    margin: 4rem auto; }
+  .project_page .content .image_content {
+    margin: 3rem 0; }
+
+/* Footer */
+.footer {
+  background-color: #FAFAFA;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10rem 28vw 0 28vw; }
+  .footer .contact .project_title {
+    margin: 0 0 1rem 0; }
+  .footer .contact .resume_link {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    font-style: italic; }
+    .footer .contact .resume_link img {
+      margin: 0.3rem 0 0 0.5rem;
+      align-content: center;
+      align-self: center; }
+  .footer .social_media {
+    margin: 50px 0 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40%; }
+
+.credit {
+  padding: 2rem 0;
+  margin: 6rem 0 0 0; }
+
+/* RESPONSIVE */
+/* Mobile */
+@media screen and (max-width: 500px) {
+  :root {
+    font-size: 14px; }
+  .project_title {
+    font-size: 2rem; }
+  .quote_italic {
+    padding: 0rem; }
+  .footer {
+    padding: 10rem 3rem 0 3rem; }
+  .intro {
+    padding: 2rem 3rem 2rem 3rem; }
+  .scroll {
+    padding: 6rem 3rem 4rem 3rem; }
+  main {
+    margin: 0 3rem; }
+    main .project_page {
+      margin: 10rem 3rem; }
+    main .grid-col2 {
+ 
+      display: grid;
+ 
+      grid-template-rows: 1fr;
+      grid-template-columns: 1fr;
+      grid-gap: 3rem; }
+      main .grid-col2 .card_project {
+        margin: 0 0 2rem 0; }
+    main .grid-col3 {
+ 
+      display: grid;
+ 
+      grid-template-rows: 1fr;
+      grid-template-columns: 1fr;
+      grid-gap: 5rem 0rem; }
+  .footer .social_media {
+    width: 80%; }
+  .project_page {
+    margin: 8rem 3rem; }
+    .project_page .sumup .project_title {
+      padding: 0; } }
+
+/* Tablet */
+@media screen and (min-width: 500px) and (max-width: 1200px) {
+  :root {
+    font-size: 14px; }
+  .intro {
+    padding: 0rem 22vw 10rem 22vw; }
+  .scroll {
+    padding: 6rem 22vw; }
+  main {
+    margin: 6rem 22vw; }
+    main .grid-col2 {
+ 
+      display: grid;
+ 
+      grid-template-rows: 1fr;
+ 
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 3rem; }
+      main .grid-col2 .card_project {
+        margin: 0 0 2rem 0; }
+    main .grid-col3 {
+ 
+      display: grid;
+ 
+      grid-template-rows: 1fr;
+ 
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 5rem 0rem; }
+  .project_page {
+    margin: 10rem 22vw; }
+    .project_page .sumup .project_title {
+      padding: 0; }
+  .footer {
+    padding: 10rem 22vw 0 22vw; }
+  .footer .social_media {
+    width: 80%; } }
+
+/* Macbook */
+@media screen and (min-width: 1200px) and (max-width: 1500px) {
+  :root {
+    font-size: 16px; }
+  .intro {
+    padding: 0rem 26vw 10rem 26vw; }
+  .scroll {
+    padding: 3rem 26vw; }
+  main {
+    margin: 4rem 26vw 10rem 26vw; }
+  .project_page {
+    margin: 10rem 26vw; }
+  .footer {
+    padding: 10rem 26vw 0 26vw; } }
