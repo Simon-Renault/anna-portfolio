@@ -70,8 +70,6 @@ query CaseStudies {
 
 <script>
 export default {
-    mounted(){
-        console.log(this.$page)
-    }
+   
 }
 </script>

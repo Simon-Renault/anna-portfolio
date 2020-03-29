@@ -1,19 +1,17 @@
 <template>
   <LayoutPost>
    <main class="project_page main">
-            <div class="sumup">
-                <div class="heading">
-                    <h2 class="project_title center">{{$page.post.title}}</h2>
-                    <h3 class="date caption center">{{$page.post.date}}</h3>
-                </div>
-                <img class="image_summary" src="//placeholder_large.png" alt="">
-                <p class="courant_italic">{{$page.post.intro}}</p>
+        <div class="sumup">
+            <div class="heading">
+                <h2 class="project_title center">{{$page.post.title}}</h2>
+                <h3 class="date caption center">{{$page.post.date}}</h3>
             </div>
-            <div class="separator"></div>
-            <div class="content" v-html="$page.post.content">
-               
-            </div>
-        </main>
+            <img class="image_summary" src="//placeholder_large.png" alt="">
+            <p class="courant_italic">{{$page.post.intro}}</p>
+        </div>
+        <div class="separator"></div>
+        <div class="content" v-html="$page.post.content" ></div>
+    </main>
 
    
   </LayoutPost>
@@ -36,9 +34,6 @@ export default {
     return {
       title: this.$page.post.title
     }
-  },
-  mounted(){
-      console.log(this.$page.post)
   }
 }
 </script>

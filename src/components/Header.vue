@@ -9,8 +9,8 @@
             
         </div>
         <div class="intro">
-            <h2 class="project_title">Hi there, I&#8217;m Anna</h2>
-            <p class="courant_italic">I’m a Product Design Student based in Shanghai, previously interned with Ucaya, Nantes and currently working  as a UI/UX design Intern at Wiredcraft, in Shanghai. If you’re interested in getting in touch, feel free to contact me</p>
+            <h2 class="project_title">{{settings.hero_title}}</h2>
+            <p class="courant_italic" v-html="settings.hero_text"></p>
         </div>
 
         <div class="scroll bg-grey"> 
@@ -22,7 +22,11 @@
 
 <script>
 export default {
- 
+  data(){
+        return {
+            settings: require("../../data/theme.json")
+        }
+    }
 }
 </script>
 

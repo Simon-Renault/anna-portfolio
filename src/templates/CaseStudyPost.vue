@@ -1,44 +1,29 @@
 <template>
-  <Layout>
-    <div class="project">
-
-      <div class="container">
-
-        <div class="project-header">
-          <h1 class="project-title" v-html="$page.post.title" />
-          <div class="project-info">
-
-            <div class="categories-container">
-              <div class="categories">
-                <span class="label">Categories</span>
-                <span 
-                  class="category"
-                  v-for="(category, index) in $page.post.categories" 
-                  :key="index"
-                  v-text="category"
-                />
-              </div>
+   <LayoutPost>
+   <main class="project_page main">
+            <div class="sumup">
+                <div class="heading">
+                    <h2 class="project_title center">{{$page.post.title}}</h2>
+                    <h3 class="date caption center">{{$page.post.date}}</h3>
+                </div>
+                <img class="image_summary" src="//placeholder_large.png" alt="">
+                <p class="courant_italic">{{$page.post.intro}}</p>
             </div>
-
-            <div class="year-container">
-              <span class="label">Year</span>
-              <div v-html="$page.post.date"/>
+            <div class="separator"></div>
+            <div class="content" v-html="$page.post.content">
+               
             </div>
-          </div>
-        </div>
+        </main>
 
-        <div v-html="$page.post.content" class="content" />
-
-      </div>
-
-    </div>
-  </Layout>
+   
+  </LayoutPost>
 </template>
 
 <page-query>
 query ProjectPost ($path: String!) {
-  post: projectPost (path: $path) {
+  post: caseStudyPost (path: $path) {
     title
+    intro
     date (format: "YYYY")
     content
   }
@@ -50,9 +35,6 @@ export default {
   metaInfo () {
     return {
       title: this.$page.post.title,
-      bodyAttrs: {
-        style: `background-color: ${this.$page.post.project_bg_color ? this.$page.post.project_bg_color : 'var(--color-base)'}; color: ${this.$page.post.project_fg_color ? this.$page.post.project_fg_color : 'var(--color-contrast)'}`
-      }
     }
   }
 }

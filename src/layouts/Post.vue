@@ -10,7 +10,7 @@
         <slot></slot>
         <footer>
             <div class="credit">
-                <h5 class="footer_italic center">© Crafted by Anna, in Shanghai, 2019</h5>
+                <h5 class="footer_italic center">{{settings.copyright}}</h5>
             </div>
         </footer>
 </div>
@@ -18,6 +18,11 @@
 
 <script>
 export default {
+      data() {
+        return {
+            settings: require("../../data/theme.json")
+        }
+    }
 }
 </script>
 
