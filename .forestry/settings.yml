@@ -11,7 +11,7 @@ sections:
   match: "**/*.md"
   templates:
   - project
-- type: case_studies
+- type: directory
   path: case_studies
   label: Case studies
   create: documents
