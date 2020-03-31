@@ -2,7 +2,7 @@
   <div class="layout" >
     <Header />
     <slot/>
-    <Footer />
+    <Footer hasContact="true" />
   </div>
 </template>
 

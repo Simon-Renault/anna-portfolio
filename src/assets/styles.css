@@ -46,9 +46,15 @@ body {
 /* IBM Plex Serif */
 /* TEXT STYLES */
 
-.content{
 
+.hero{
+    height:100vh;
+    max-height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+
 
 .project_title {
   font-family: 'Geomanist', sans serif;
@@ -56,14 +62,14 @@ body {
   font-size: 2.8rem;
   font-weight: 700; }
 
-  .content h4 {
+.subtitle_bold {
   font-family: 'Geomanist', sans serif;
   color: #2C2C2C;
   font-size: 1.4rem;
   font-weight: 800;
   padding: 0 0 2rem 0; }
 
-  .content blockquote {
+.quote_italic {
   font-family: 'IBM Plex Serif', serif;
   color: #3a3a3a;
   font-style: italic;
@@ -73,20 +79,19 @@ body {
   line-height: 2.4rem;
   padding: 0 3rem; }
 
-  .content b {
+.courant_bold {
   font-family: 'IBM Plex Serif', serif;
   color: #2C2C2C;
   font-size: 1.2rem;
   font-weight: 600;
   line-height: 2.1rem; }
 
-  .content p{
+.courant_regular {
   font-family: 'IBM Plex Serif', serif;
   color: #3a3a3a;
   font-size: 1.1rem;
   font-weight: 400;
-  line-height: 2rem; 
-}
+  line-height: 2rem; }
 
 .courant_italic {
   font-family: 'IBM Plex Serif', serif;
@@ -132,18 +137,32 @@ body {
 
 .header {
   min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
   justify-content: space-between; }
 
 .fixed_header {
   padding: 1.5rem 0;
   width: 100%;
   position: fixed;
-  z-index: 100;
-  display: flex;
   top:0;
+  z-index: 100;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
   flex-direction: row;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center; }
 
 .blank {
@@ -158,6 +177,7 @@ body {
 
 .intro {
   background-color: #FAFAFA;
+  margin: 20vh 0 0 0;
   padding: 0rem 28vw 10rem 28vw; }
   .intro .project_title {
     margin: 0 0 1rem 0; }
@@ -166,8 +186,15 @@ body {
 
 .scroll {
   padding: 3rem 28vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
   text-align: center; }
   .scroll img {
@@ -186,10 +213,14 @@ main {
     font-size: 1.2rem;
     line-height: 1.8rem; }
   main .main_projects {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex; }
   main .projects_section {
     margin: 0px 0 5rem 0; }
     main .projects_section .card_project {
+      -webkit-transition: 0.4s ease;
+      -o-transition: 0.4s ease;
       transition: 0.4s ease; }
       main .projects_section .card_project .image_container img {
         width: 100%;
@@ -197,20 +228,28 @@ main {
       main .projects_section .card_project .description {
         margin: 1rem 0 0 0; }
     main .projects_section .card_project:hover {
+      -webkit-transform: translateY(-20px);
+      -ms-transform: translateY(-20px);
       transform: translateY(-20px);
+      -webkit-transition: 0.4s ease;
+      -o-transition: 0.4s ease;
       transition: 0.4s ease; }
     main .projects_section .margin_right {
       margin: 0 2rem 0 0; }
   main .grid-col2 {
+    display: -ms-grid;
     display: grid;
+    -ms-grid-rows: 1fr;
     grid-template-rows: 1fr;
+    -ms-grid-columns: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
     grid-gap: 3rem; }
     main .grid-col2 .card_project {
       margin: 0 0 2rem 0; }
   main .grid-col3 {
+    display: -ms-grid;
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    -ms-grid-columns: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 5rem 0rem; }
     main .grid-col3 .card_project {
@@ -239,27 +278,52 @@ main {
 /* Footer */
 .footer {
   background-color: #FAFAFA;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
   padding: 10rem 28vw 0 28vw; }
   .footer .contact .project_title {
     margin: 0 0 1rem 0; }
   .footer .contact .resume_link {
     margin: 20px 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
     flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
     align-items: center;
+    -ms-flex-line-pack: center;
     align-content: center;
     font-style: italic; }
     .footer .contact .resume_link img {
       margin: 0.3rem 0 0 0.5rem;
+      -ms-flex-line-pack: center;
       align-content: center;
+      -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
       align-self: center; }
   .footer .social_media {
     margin: 50px 0 0 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
     flex-direction: row;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
     justify-content: space-between;
     width: 40%; }
 
@@ -287,19 +351,21 @@ main {
     main .project_page {
       margin: 10rem 3rem; }
     main .grid-col2 {
- 
+      display: -ms-grid;
       display: grid;
- 
+      -ms-grid-rows: 1fr;
       grid-template-rows: 1fr;
+      -ms-grid-columns: 1fr;
       grid-template-columns: 1fr;
       grid-gap: 3rem; }
       main .grid-col2 .card_project {
         margin: 0 0 2rem 0; }
     main .grid-col3 {
- 
+      display: -ms-grid;
       display: grid;
- 
+      -ms-grid-rows: 1fr;
       grid-template-rows: 1fr;
+      -ms-grid-columns: 1fr;
       grid-template-columns: 1fr;
       grid-gap: 5rem 0rem; }
   .footer .social_media {
@@ -320,21 +386,21 @@ main {
   main {
     margin: 6rem 22vw; }
     main .grid-col2 {
- 
+      display: -ms-grid;
       display: grid;
- 
+      -ms-grid-rows: 1fr;
       grid-template-rows: 1fr;
- 
+      -ms-grid-columns: 1fr 1fr;
       grid-template-columns: 1fr 1fr;
       grid-gap: 3rem; }
       main .grid-col2 .card_project {
         margin: 0 0 2rem 0; }
     main .grid-col3 {
- 
+      display: -ms-grid;
       display: grid;
- 
+      -ms-grid-rows: 1fr;
       grid-template-rows: 1fr;
- 
+      -ms-grid-columns: 1fr 1fr;
       grid-template-columns: 1fr 1fr;
       grid-gap: 5rem 0rem; }
   .project_page {

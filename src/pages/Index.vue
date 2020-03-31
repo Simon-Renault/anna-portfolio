@@ -1,5 +1,17 @@
 <template>
   <Layout>
+    <div class="hero bg-grey">
+        
+        <div class="intro">
+            <h2 class="project_title">{{settings.hero_title}}</h2>
+            <p class="courant_italic" v-html="settings.hero_text"></p>
+        </div>
+
+        <div class="scroll bg-grey"> 
+            <h5 class="courant_regular opacity_50">Scroll Down</h5>
+            <img src="/icons/arrow-down.svg" alt="">
+        </div>
+    </div>
      <main class="main">
         <!-- main projects-->
         <h1 class="project_title margin-body">Cases Studies</h1>
@@ -42,6 +54,7 @@
 </template>
 
 <page-query>
+
 query CaseStudies {
 	CaseStudies: allCaseStudyPost {
         edges {
@@ -70,6 +83,10 @@ query CaseStudies {
 
 <script>
 export default {
-   
+    data(){
+        return {
+            settings: require("../../data/theme.json")
+        }
+    }
 }
 </script>

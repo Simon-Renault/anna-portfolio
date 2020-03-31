@@ -1,27 +1,27 @@
 <template>
 <div class="layout">
-        <header>
-            <div class="fixed_header bg-white">
-                <g-link to="/">        
-                    <img src="/icons/logo.svg" alt="">   
-                </g-link>
-            </div>
-        </header>
-        <slot></slot>
-        <footer>
-            <div class="credit">
-                <h5 class="footer_italic center">{{settings.copyright}}</h5>
-            </div>
-        </footer>
+       
+    <Header bg="#FFFFFF" />
+    <slot></slot>
+    <Footer hasContact="false" />
+       
 </div>
 </template>
 
 <script>
+import Header from "@/components/Header"
+import Footer from "@/components/Footer"
+
+
 export default {
       data() {
         return {
             settings: require("../../data/theme.json")
         }
+    },
+    components: {
+        Header,
+        Footer
     }
 }
 </script>

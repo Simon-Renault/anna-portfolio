@@ -1,6 +1,6 @@
 <template>
-  <footer class="footer">
-            <div class="contact"> 
+    <footer class="footer">
+            <div class="contact" v-if="hasContact"> 
                 <h2 class="project_title">{{settings.footer_title}}</h2>
                 <p class="courant_italic"  v-html="settings.footer_text" ></p>
                  <a href="anna-rabeony.pdf" target="_blank">
@@ -38,6 +38,9 @@
 <script>
 
 export default {
+    props: {
+        hasContact : Boolean
+    },
     data() {
         return {
             settings: require("../../data/theme.json")
