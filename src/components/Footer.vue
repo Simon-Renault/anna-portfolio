@@ -6,7 +6,7 @@
                  <a href="anna-rabeony.pdf" target="_blank">
                      <div class="resume_link">
                          <h4 class="courant_bold">Read Resumé</h4>
-                         <img src="images/Icons/arrow_right.svg" alt="">
+                         <img src="/Icons/arrow_right.svg" alt="">
                  
                      </div>
                  </a>
