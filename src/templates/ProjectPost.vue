@@ -65,4 +65,11 @@ export default {
 .category:last-of-type:after {
   content: '';
 }
+
+
+
+
+
+
+/*.x-content {}*/
 </style>

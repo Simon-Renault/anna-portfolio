@@ -66,4 +66,7 @@ export default {
 .category:last-of-type:after {
   content: '';
 }
+
+
+
 </style>
