@@ -43,4 +43,9 @@ In the best cases, generalists can be defined as knowing a great amount about a 
 
 ### I wanted to explore how this approach would land working with photographers in their home cities, so I paired one of our internal photographers, Ryan Kim, with five hosts in the Bay Area. 
 
-### Then I pinpointed geographies that were lacking in our image library so that any successful tests would yield images we could put to good use. India was a region we hadn’t covered extensively as a brand, which I believed we needed to correct. So I reached out to a photojournalist I’ve followed for many years, in Mumbai.
+Because your cat not seems to be all the time nice, it does not mean that he does not love you.
+
+I wanted to explore how this _approach_ would land working with photographers in their home cities, so I paired one of our internal photographers, Ryan Kim, with five hosts in the Bay Area. Then I pinpointed geographies that were lacking in our image library so that any successful tests would yield images we could put to good use. India was a region we hadn’t covered extensively as a brand, which I believed we needed to correct. So I reached out to a photojournalist I’ve followed for many years, in Mumbai.
+
+  
+_italic_
