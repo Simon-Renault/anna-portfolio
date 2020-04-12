@@ -12,9 +12,7 @@ intro: Why can't we separate from our smartphones and devices? Why do we hide be
 ---
 ## Researches
 
-### Why this topic?
-
-We spend on average 4 hours and 48 minutes a day in France on the Internet including 1h22 on social media. These figures on screen time alarmed me. I reflected on the use of digital and I found that more than half of the time spent on the internet (outside of work time) was a waste of time for me. It was enough for me to ask myself the following question: was this moment useful to me? The answer has often been negative. I'm also very frustrated every day to not manage to get by without my cell phone, and to find that I'm dependent on it.
+**Why this topic?** We spend on average 4 hours and 48 minutes a day in France on the Internet including 1h22 on social media. These figures on screen time alarmed me. I reflected on the use of digital and I found that more than half of the time spent on the internet (outside of work time) was a waste of time for me. It was enough for me to ask myself the following question: was this moment useful to me? The answer has often been negative. I'm also very frustrated every day to not manage to get by without my cell phone, and to find that I'm dependent on it.
 
 ### Context
 
