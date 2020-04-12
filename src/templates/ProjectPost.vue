@@ -11,7 +11,7 @@
                 <p class="courant_italic">{{$page.post.intro}}</p>
             </div>
             <div class="separator"></div>
-            <div class="content" v-html="$page.post.content" ></div>
+            <div class="x-content" v-html="$page.post.content" ></div>
         </main>
    
     </LayoutPost>
