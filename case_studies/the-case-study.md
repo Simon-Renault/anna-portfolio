@@ -18,7 +18,7 @@ Being strategic starts with knowing where you are and figuring out your long-ter
 
 Strategic design means designing for a specific objective. More often than not, that objective is growing a business. But it’s important to recognize that there’s a difference between being strategic by being the conduit between the business and the user, and designing for the business alone
 
-![xxx](/uploads/placeholder__1.png "test")
+![](/uploads/placeholder__2.png)
 
 Not long ago, many designer’s sole responsibility was to design the way something looks. That’s still an important aspect of the craft of design. As the industry has evolved, however, our processes have become more complex. We’re thinking about multiple platforms and dimensions of our products. It’s essential to approach these new developments with our eyes open, ready to learn.
 
