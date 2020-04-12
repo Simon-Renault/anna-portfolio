@@ -30,10 +30,16 @@ Not long ago, many designer’s sole responsibility was to design the way someth
 
 In the best cases, generalists can be defined as knowing a great amount about a great number of things. In the worst, they can be seen as a “Jack of all trades, master of none.” While specialists have the unique advantage of being able to easily to point to an area of expertise, generalists don’t have that luxury.
 
-### We used participatory design techniques to understand the travel needs of the new and existing guests.
-
 In the best cases, generalists can be defined as knowing a great amount about a great number of things. In the worst, they can be seen as a “Jack of all trades, master of none.” While specialists have the unique advantage of being able to easily to point to an area of expertise, generalists don’t have that luxury.
 
 **At the end of the day, business-focused design doesn’t have to be nefarious. Designers should always be looking for opportunities to align the needs of the user and the needs of the business. Those opportunities are often found in surprising places, and a strategic mindset will help you make the most of them.**
 
-kiki
+## What Is Important
+
+### Be kind with your parents
+
+Your parents love you and has dedicated their life (and money!) to you and only you so be kind with them and be a adorable daughter.
+
+### Love your cat
+
+Because your cat not seems to be all the time nice, it does not mean that he does not love you.
