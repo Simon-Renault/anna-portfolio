@@ -4,9 +4,12 @@ content: Nothing written yet
 project_date: 2020-03-18T00:00:00.000+00:00
 thumbnail: "/uploads/placeholder__2.png"
 title: Building an None Digital Addictive App
-intro: I’m a Product Design Student based in Shanghai, previously interned with Ucaya,
-  Nantes and currently working as a UI/UX design Intern at Wiredcraft, in Shanghai.
-  If you’re interested in getting in touch, feel free to contact me
+intro: In an article published in 2018, Head of Localization Salvatore “Salvo” Giammarresi
+  explained the importance of prioritizing globalization efforts at Airbnb. Now, fresh
+  off the heels of a major localization milestone, we’re revisiting the topic, asking
+  Salvo and Globalization Design Lead Taido Nakajima to fill us in on the tight cross-functional
+  partnership that recently allowed Airbnb to launch 31 new languages across web,
+  iOS, Android, and mobile web, for a total of 62 supported languages.
 
 ---
 ## They’re strong storytellers
