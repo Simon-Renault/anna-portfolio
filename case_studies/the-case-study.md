@@ -35,10 +35,12 @@ In the best cases, generalists can be defined as knowing a great amount about a 
 
 ## What Is Important
 
-### Be kind with your parents
+**Be kind with your parents -** Your parents love you and has dedicated their life (and money!) to you and only you so be kind with them and be a adorable daughter.
 
-Your parents love you and has dedicated their life (and money!) to you and only you so be kind with them and be a adorable daughter.
+**Love your cat -** Because your cat not seems to be all the time nice, it does not mean that he does not love you.
 
-### Love your cat
+***
 
-Because your cat not seems to be all the time nice, it does not mean that he does not love you.
+### I wanted to explore how this approach would land working with photographers in their home cities, so I paired one of our internal photographers, Ryan Kim, with five hosts in the Bay Area. 
+
+### Then I pinpointed geographies that were lacking in our image library so that any successful tests would yield images we could put to good use. India was a region we hadn’t covered extensively as a brand, which I believed we needed to correct. So I reached out to a photojournalist I’ve followed for many years, in Mumbai.
