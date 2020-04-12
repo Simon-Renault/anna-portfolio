@@ -22,7 +22,11 @@ Strategic design means designing for a specific objective. More often than not, 
 
 Not long ago, many designer’s sole responsibility was to design the way something looks. That’s still an important aspect of the craft of design. As the industry has evolved, however, our processes have become more complex. We’re thinking about multiple platforms and dimensions of our products. It’s essential to approach these new developments with our eyes open, ready to learn.
 
+***
+
 > We used participatory design techniques to understand the travel needs of the new and existing guests.
+
+***
 
 In the best cases, generalists can be defined as knowing a great amount about a great number of things. In the worst, they can be seen as a “Jack of all trades, master of none.” While specialists have the unique advantage of being able to easily to point to an area of expertise, generalists don’t have that luxury.
 
