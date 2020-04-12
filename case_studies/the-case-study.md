@@ -31,5 +31,4 @@ In the best cases, generalists can be defined as knowing a great amount about a 
 
 In the best cases, generalists can be defined as knowing a great amount about a great number of things. In the worst, they can be seen as a “Jack of all trades, master of none.” While specialists have the unique advantage of being able to easily to point to an area of expertise, generalists don’t have that luxury.
 
-
 **At the end of the day, business-focused design doesn’t have to be nefarious. Designers should always be looking for opportunities to align the needs of the user and the needs of the business. Those opportunities are often found in surprising places, and a strategic mindset will help you make the most of them.**
