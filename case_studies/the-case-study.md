@@ -33,4 +33,12 @@ In the best cases, generalists can be defined as knowing a great amount about a 
 
 **At the end of the day, business-focused design doesn’t have to be nefarious. Designers should always be looking for opportunities to align the needs of the user and the needs of the business. Those opportunities are often found in surprising places, and a strategic mindset will help you make the most of them.**
 
-kiki
+## What Is Important
+
+### Be kind with your parents
+
+Your parents love you and has dedicated their life (and money!) to you and only you so be kind with them and be a adorable daughter.
+
+### Love your cat
+
+Because your cat not seems to be all the time nice, it does not mean that he does not love you.
