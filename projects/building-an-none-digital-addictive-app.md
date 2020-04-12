@@ -2,7 +2,7 @@
 date: 2020-03-29
 project_date: 2020-03-18T00:00:00.000+00:00
 thumbnail: "/uploads/bets.png"
-title: "Little bets between friends \U0001F91D"
+title: 'Little bets between friends '
 intro: Why can't we separate from our smartphones and devices? Why do we hide behind
   our screen when we feel alone? We are more and more afraid of those moments of emptiness
   and silence. We are living in an increasingly connected world where Infobesity is
