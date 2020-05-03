@@ -23,7 +23,7 @@ query ProjectPost ($path: String!) {
     title
     intro
     date (format: "MMMM DD, YYYY")
-    thumbnail (height:500,width:1000,quality: 50)
+    thumbnail 
     content
   }
 }
