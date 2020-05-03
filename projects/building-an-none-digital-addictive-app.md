@@ -1,6 +1,6 @@
 ---
 date: 2020-03-29
-project_date: 2020-06-17T23:00:00Z
+project_date: 2020-06-17T23:00:00.000+00:00
 thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/:filename/cover.jpg
 title: Mamie mange du pain
 intro: ddggggddddddddfggfggfgf
@@ -20,4 +20,6 @@ t long ago, many designer’s sole responsibility was to design the way somethin
 
 In the best cases, generalists can be defined as knowing a great amount about a great number of things. In the worst, they can be seen as a “Jack of all trades, master of none.” While specialists have the unique advantage of being able to easily to point to an area of expertise, generalists don’t have that luxury.
 
-At the end of the day, business-focused design doesn’t have to be nefarious. Designers should always be looking for opportunities to align the needs of the user and the needs of the business. Those opportunities are often found in surprising places, and a strategic mindset will help you make the most of them.
+At the end of the day, business-focused design doesn’t have to be nefarious. Designers should always be looking for opportunities to align the needs of the user and the needs of the business. Those op
+
+portunities are often found in surprising places, and a strategic mindset will help you make the most of them.
