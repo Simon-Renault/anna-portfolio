@@ -22,7 +22,7 @@ sections:
   path: data/theme.json
   label: Theme config
 upload_dir: anna-portfolio
-public_path: "/medias"
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename/:filename:"
