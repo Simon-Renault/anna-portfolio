@@ -1,7 +1,7 @@
 ---
 date: 2020-03-29
 project_date: 2020-03-18T00:00:00.000+00:00
-thumbnail: "/uploads/placeholder__2.png"
+thumbnail: "/medias/:filename/2B652033-26A3-4050-BB71-9E504A46E914.jpeg"
 title: Building an None Digital Addictive App
 intro: In an article published in 2018, Head of Localization Salvatore “Salvo” Giammarresi
   explained the importance of prioritizing globalization efforts at Airbnb. Now, fresh
