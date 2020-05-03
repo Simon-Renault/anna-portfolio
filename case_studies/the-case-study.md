@@ -1,7 +1,7 @@
 ---
 date: 2020-03-29
 project_date: 2020-03-18T00:00:00.000+00:00
-thumbnail: "/medias/:filename/2B652033-26A3-4050-BB71-9E504A46E914.jpeg"
+thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/:filename/cover.jpg
 title: Building an None Digital Addictive App
 intro: In an article published in 2018, Head of Localization Salvatore “Salvo” Giammarresi
   explained the importance of prioritizing globalization efforts at Airbnb. Now, fresh
@@ -17,7 +17,7 @@ Being strategic starts with knowing where you are and figuring out your long-ter
 
 Strategic design means designing for a specific objective. More often than not, that objective is growing a business. But it’s important to recognize that there’s a difference between being strategic by being the conduit between the business and the user, and designing for the business alone
 
-![](/uploads/placeholder__2.png)
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/:filename/cover.jpg)![](/uploads/placeholder__2.png)
 
 Not long ago, many designer’s sole responsibility was to design the way something looks. That’s still an important aspect of the craft of design. As the industry has evolved, however, our processes have become more complex. We’re thinking about multiple platforms and dimensions of our products. It’s essential to approach these new developments with our eyes open, ready to learn.
 
@@ -41,11 +41,10 @@ In the best cases, generalists can be defined as knowing a great amount about a 
 
 ***
 
-### I wanted to explore how this approach would land working with photographers in their home cities, so I paired one of our internal photographers, Ryan Kim, with five hosts in the Bay Area. 
+### I wanted to explore how this approach would land working with photographers in their home cities, so I paired one of our internal photographers, Ryan Kim, with five hosts in the Bay Area.
 
 Because your cat not seems to be all the time nice, it does not mean that he does not love you.
 
 I wanted to explore how this _approach_ would land working with photographers in their home cities, so I paired one of our internal photographers, Ryan Kim, with five hosts in the Bay Area. Then I pinpointed geographies that were lacking in our image library so that any successful tests would yield images we could put to good use. India was a region we hadn’t covered extensively as a brand, which I believed we needed to correct. So I reached out to a photojournalist I’ve followed for many years, in Mumbai.
 
-  
 _italic_
