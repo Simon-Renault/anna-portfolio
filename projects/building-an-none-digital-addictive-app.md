@@ -1,7 +1,7 @@
 ---
 date: 2020-03-29
 project_date: 2020-06-17T23:00:00Z
-thumbnail: "/medias/:filename/2B652033-26A3-4050-BB71-9E504A46E914.jpeg"
+thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/:filename/cover.jpg
 title: Mamie mange du pain
 intro: ddggggddddddddfggfggfgf
 
@@ -12,9 +12,9 @@ Being strategic starts with knowing where you are and figuring out your long-ter
 
 Strategic design means designing for a specific objective. More often than not, that objective is growing a business. But it’s important to recognize that there’s a difference between being strategic by being the conduit between the business and the user, and designing for the business alone
 
-![xxx](/uploads/placeholder__1.png "test")
+t long ago, many designer’s sole responsibility was to design the way something looks. That’s still an important aspect of the craft of design. As the industry has evolved, however, our processes have become more complex. We’re thinking about multiple platforms and dimensions of our products. It’s essential to approach these new developments with our eyes open, ready to learn.
 
-Not long ago, many designer’s sole responsibility was to design the way something looks. That’s still an important aspect of the craft of design. As the industry has evolved, however, our processes have become more complex. We’re thinking about multiple platforms and dimensions of our products. It’s essential to approach these new developments with our eyes open, ready to learn.
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/:filename/cover.jpg)
 
 ### We used participatory design techniques to understand the travel needs of the new and existing guests.
 
