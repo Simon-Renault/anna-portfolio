@@ -1,8 +1,8 @@
 ---
 date: 2020-03-29
-project_date: 2020-06-17T23:00:00.000+00:00
+project_date: 2020-06-17T23:00:00Z
 thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/hello.png
-title: Mamie mange du pain
+title: Nomad. Plan an eco-friendly road-trip among friends
 intro: ddggggddddddddfggfggfgf
 
 ---
@@ -14,3 +14,15 @@ Being strategic starts with knowing where you are and figuring out your long-ter
 Strategic design means designing for a specific objective. More often than not, that objective is growing a business. But it’s important to recognize that there’s a difference between being strategic by being the conduit between the business and the user, and designing for the business alone
 
 **Educate People -** Not long ago, many designer’s sole responsibility was to design the way something looks. That’s still an important aspect of the craft of design. As the industry has evolved, however, our processes have become more complex. We’re thinking about multiple platforms and dimensions of our products. It’s essential to approach these new developments with our eyes open, ready to learn.
+
+> I began to realize how costly it was to keep the internet turned “on”.
+
+Not long ago, many designer’s sole responsibility was to design the way something looks. That’s still an important aspect of the craft of design.
+
+## So what’s next?
+
+**Not more death -** Not long ago, many designer’s sole responsibility was to design the way something looks. That’s still an important aspect of the craft of design. As the industry has evolved, however, our processes have become more complex. We’re thinking about multiple platforms and dimensions of our products. It’s essential to approach these new developments with our eyes open, ready to learn.
+
+**Always make it great -** Not long ago, many designer’s sole responsibility was to design the way something looks. That’s still an important aspect of the craft of design. As the industry has evolved, however, our processes have become more complex. We’re thinking about multiple platforms and dimensions of our products. It’s essential to approach these new developments with our eyes open, ready to learn.
+
+**Strategic design means designing for a specific objective. More often than not, that objective is growing a business. But it’s important to recognize that there’s a difference between being strategic by being the conduit between the business and the user, and designing for the business alone**
