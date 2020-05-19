@@ -12,6 +12,8 @@ I love travel and I've always love. If you ask me what is the thing I would love
 
 ## 🌍 Background
 
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/hello.png)
+
 ### Eco-Friendly Road-Trip
 
 **Eco-Friendly Road-Trip -** As I've just said previously, travelling and respecting environment are two things that can work together. If we make some efforts, we realise that the most of activities we love to do could be done in a sustainable way. We can first prefer public transports, bike or even our own foots to travel. Then we can buy products to local sellers in the country we're visiting. We can sleep at local people's home to generate money for local people, rather than huge international resorts, or we can use our own tent while respecting nature around us without generate waste. There are so many alternatives and much more opportunities and adventures to live by this way of travelling.
