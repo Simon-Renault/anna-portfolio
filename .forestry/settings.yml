@@ -24,7 +24,7 @@ sections:
 upload_dir: anna-portfolio
 public_path: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_output_directory: dist
