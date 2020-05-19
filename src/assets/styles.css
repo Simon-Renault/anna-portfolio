@@ -1,6 +1,12 @@
 /* LES BASES */
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900&display=swap");
 @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Serif:300,300i,400,400i,500,500i,600,600i,700,700i&display=swap");
+
+/* noto typeface */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@900&display=swap');
+
+/* karla typeface */
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+JP:wght@900&display=swap');
 html {
   overflow-x: hidden; }
 
@@ -19,32 +25,7 @@ body {
   margin: 0;
   padding: 0; }
 
-/* VARIABLES */
-/* FONTS IMPORTS */
-/* geomanist */
-@font-face {
-  font-family: "Geomanist";
-  src: url(/Typefaces/Geomanist/geomanist-bold-webfont.woff) format("woff");
-  font-weight: 800; }
 
-@font-face {
-  font-family: "Geomanist";
-  src: url(/Typefaces/Geomanist/geomanist-medium-webfont.woff) format("woff");
-  font-weight: 700; }
-
-@font-face {
-  font-family: "Geomanist";
-  src: url(/Typefaces/Geomanist/geomanist-book-webfont.woff) format("woff");
-  font-weight: 600; }
-
-@font-face {
-  font-family: "Geomanist";
-  src: url(/Typefaces/Geomanist/geomanist-regular-webfont.woff) format("woff");
-  font-weight: 500; }
-
-/* Playfair Display */
-/* IBM Plex Serif */
-/* TEXT STYLES */
 
 
 .hero{
@@ -58,7 +39,7 @@ body {
 /* forestry font styles */
 
 p {
-  font-family: 'IBM Plex Serif', serif;
+  font-family: 'Karla', sans-serif;
   color: #3a3a3a;
   font-size: 1.1rem;
   font-weight: 400;
@@ -67,18 +48,18 @@ p {
 }
 
 h2 {
-  font-family: 'Geomanist', sans serif;
+  font-family: 'Noto Serif JP', serif;
   color: #2C2C2C;
   font-size: 1.4rem;
-  font-weight: 700;
+  font-weight: 900;
   padding: 2rem 0 2rem 0;
 }
 
 h3 {
-  font-family: 'IBM Plex Serif', serif;
+  font-family: 'Karla', sans-serif;
   color: #3a3a3a;
   font-size: 1.3rem;
-  font-weight: 800;
+  font-weight: 400;
   line-height: 2.4rem;
   padding: 0 0 20px 0;
 }
@@ -113,10 +94,10 @@ hr {
 }
 
 .project_title {
-  font-family: 'Geomanist', sans serif;
+  font-family: 'Noto Serif JP', serif;
   color: dark;
   font-size: 2.8rem;
-  font-weight: 700; }
+  font-weight: 900; }
 
 .subtitle_bold {
   font-family: 'Geomanist', sans serif;
@@ -143,14 +124,14 @@ hr {
   line-height: 2.1rem; }
 
 .courant_regular {
-  font-family: 'IBM Plex Serif', serif;
+  font-family: 'Karla', sans-serif;
   color: #3a3a3a;
   font-size: 1.1rem;
   font-weight: 400;
   line-height: 2rem; }
 
 .courant_italic {
-  font-family: 'IBM Plex Serif', serif;
+  font-family: 'Karla', sans-serif;
   color: #3a3a3a;
   font-size: 1.2rem;
   font-style: italic;
