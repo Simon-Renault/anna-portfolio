@@ -25,7 +25,7 @@ I've made a road-trip with two amazing friends in Kyushu island, in Japan, for 3
 
 ## Problems
 
-So to sum up, the aim problems people faced are:
+The main problems people faced are:
 
 * Organize a trip without making it messy
 * Visualize and understand a trip path with a simple way
