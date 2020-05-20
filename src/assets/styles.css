@@ -42,7 +42,7 @@ p {
   font-family: 'Karla', sans-serif;
   color: black;
   font-size: 1.1rem;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 2rem;
   padding: 0 0 20px 0;
 }
@@ -50,9 +50,9 @@ p {
 h2 {
   font-family: 'Noto Serif JP', serif;
   color:black;
-  font-size: 1.4rem;
+  font-size: 2rem;
   font-weight: 900;
-  padding: 2rem 0 2rem 0;
+  padding: 6rem 0 2rem 0;
 }
 
 h3 {
@@ -89,6 +89,20 @@ hr {
   background-color: #d4d4d4c9;
   margin: 4rem auto;
   border:none;
+}
+
+ul {
+  list-style-position: outside;
+  margin: 0 0 0 2rem;
+}
+
+li {
+  margin: 0 0 0.5rem 0;
+  font-family: 'Karla', sans-serif;
+  color: black;
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height: 1.7rem;
 }
 
 .project_title {
