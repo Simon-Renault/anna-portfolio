@@ -1,6 +1,6 @@
 ---
 date: 2020-03-29
-project_date: 2020-06-17T23:00:00Z
+project_date: 2020-06-17T23:00:00.000+00:00
 thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/hello.png
 title: Nomad. Plan an eco-friendly road-trip among friends
 intro: I love travel and I've always love. If you ask me what is the thing I would
@@ -39,7 +39,7 @@ So to sum up, the aim problems people faced are:
 
 ## Research & Insights
 
-**\[mind map\]**
+**![Mindmap](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/mindmap.png "Mindmap from Whimsical")**
 
 Facing this issue, I started to quickly draw a mindmap. This helped me to get out of the lines and consider other alternatives I've didn't think about, as the idea of collaboration with polls, or the differentiation of types of stops (route, housing, meal) to better visualize the trip path.
 
