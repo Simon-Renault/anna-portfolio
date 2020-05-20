@@ -61,11 +61,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Create a new stop -** Create a new stop to the trip should be quick to do. As information is needed, we can to fill some additional details (date, location, type of activity), but because there's so many edge cases, some items such as date, description, external link, poll and location are not required. When we want to create a new stop from an external link thanks to the "share" button from our browser, external link and title will be pre-filled, to make it easier and quicker. Same when we create a new stop from the internal map of the app, title, and location will be pre-filled. Create a new stop from Google Maps or other apps would be possible as well, as soon as information can be extracted from the app.
 
-### Polls
-
 **Polls -** When the user creates a new stop, it's possible to create a poll inside it. It will drive travelers express opinions easily and so to make decisions more quickly. When you haven't voted yet, for sure you can't see poll results, so not to be influenced. Travelers can discuss about a decision thought comments.
-
-### Map - Itinerary
 
 **Maps & Itinerary -** The first thing we will see when we open the map will be the different stops of the itinerary on the map and the next stop highlight on a card in the bottom. When we drag the card to the top, we can have a detailled view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user.
 
