@@ -70,7 +70,24 @@ blockquote p {
   font-size: 2.4rem;
   font-weight: 900;
   line-height: 3.6rem;
-  padding: 0 0 20px 0;
+  padding: 0.6rem 0;
+}
+
+blockquote {
+  position: relative;
+  padding-left: 2rem;
+  margin: 2rem 0 0 0;
+}
+
+blockquote:before {
+  position: absolute;
+  background-color: black;
+  top:0;
+  left:0;
+  bottom:0;
+  width:4px;
+  border-radius: 2px;
+  content: '';
 }
 
 strong {
