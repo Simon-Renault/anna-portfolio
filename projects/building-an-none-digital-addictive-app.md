@@ -39,11 +39,11 @@ The main problems people faced are:
 
 ## Research & Insights
 
+Facing this issue, I started to quickly draw a mindmap. This helped me to get out of the lines and consider other alternatives I've didn't think about, as the idea of collaboration with polls, or the differentiation of types of stops (route, housing, meal) to better visualize the trip path.
+
 **![Mindmap](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/mindmap.png "Mindmap from Whimsical")**
 
 ###### Mindmap
-
-Facing this issue, I started to quickly draw a mindmap. This helped me to get out of the lines and consider other alternatives I've didn't think about, as the idea of collaboration with polls, or the differentiation of types of stops (route, housing, meal) to better visualize the trip path.
 
 **Shared Platform -** When we travel with some buddies, we need a shared platform to gather information, researches, and thoughts. That where I've started to build my project. The aim was to find an easy and visual way to share thoughts, so polls and comments were two solutions I wanted to add as features to the app.
 
@@ -59,17 +59,39 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Trips List -** The entry point of the app would be the trips list. An attractive visual is quite important especially here to drive travelers to enter. Once we click on a trip, different actions are possible: browse the trip, edit it, or delete it.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/home_and_notif.gif)
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/trip_list.png)
+
+###### Trips List
 
 **Browse Trip -** When we select "view" on the previous screen, we can browse the trip through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, we can have a short preview of those three features.
 
-**Create a new stop -** Create a new stop to the trip should be quick to do. As information is needed, we can fill some additional details (date, location, type of activity), but because there are so many edge cases, some items such as date, description, external link, poll and location are not required. When we want to create a new stop from an external link thanks to the "share" button from our browser, external link and title will be pre-filled, to make it easier and quicker. Same when we create a new stop from the internal map of the app, title, and location will be pre-filled. Create a new stop from Google Maps or other apps would be possible as well, as soon as information can be extracted from the app.
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/home_and_notif.gif)
 
-**Polls -** When the user creates a new stop, it's possible to create a poll inside it. It will drive travelers to express opinions easily and so to make decisions more quickly. When you haven't voted yet, for sure you can't see poll results, so not to be influenced. Travelers can discuss a decision thought comments.
+###### Home Screen (left) - Notifications (right)
+
+**Create a new stop -** Create a new stop to the trip should be quick to do. As information is needed, we can fill some additional details (date, location, type of activity), but because there are so many edge cases, some items such as date, description, external link, poll, and location are not required. When we want to create a new stop from an external link thanks to the "share" button from our browser, external link and title will be pre-filled, to make it easier and quicker. Same when we create a new stop from the internal map of the app, title, and location will be pre-filled. Create a new stop from Google Maps or other apps would be possible as well, as soon as information can be extracted from the app.
+
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/new_stop.png)
+
+###### Add a new stop to the trip
+
+**Polls -** When the user creates a new stop, it's possible to create a poll inside it. It will drive travelers to express opinions easily and so to make decisions more quickly. When you haven't voted yet, for sure you can't see poll results, so not to be influenced. Travelers can discuss decision thought comments.
+
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/polls.png)
+
+###### Poll
 
 **Maps & Itinerary -** The first thing we will see when we open the map will be the different stops of the itinerary on the map and the next stop highlight on a card at the bottom. When we drag the card to the top, we can have a detailled view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user.
 
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map - itinerary.png)
+
+###### Trip itinerary
+
 **Map & Explore Places -** We are also able to explore some places and directly add it to our trip. We can remove a stop from the trip with "remove" or share this place into another app (Google Maps for instance to start navigation). Travel duration is also indicated to inform travelers.
+
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map - place.png)
+
+###### Explore a place
 
 **Agenda -** I decided to design two different views on the agenda:
 
@@ -78,7 +100,15 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 In both cases, colors and icons allow travelers to easily differentiate stops types (routes, meals, nature, city, housing) in order to better understand the journey schema.
 
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/agenda.gif)
+
+###### Agenda - Calendar View (left) - Schedule View (right)
+
 **Checklists -** Finally, travelers can create checklists. These checklists can be private, public, or shared only with some friends
+
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif)
+
+###### Tips (left) - Create a new item to a checklist (right)
 
 ## Conclusion
 
