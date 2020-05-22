@@ -105,9 +105,7 @@ Agenda - Calendar View (left) - Schedule View (right)
 
 **Checklists -** Finally, travelers can create checklists. These checklists can be private, public, or shared only with some friends
 
-![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif)
-
-###### Tips (left) - Create a new item to a checklist (right)
+###### ![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif)Tips (left) - Create a new item to a checklist (right)
 
 ## Conclusion
 
