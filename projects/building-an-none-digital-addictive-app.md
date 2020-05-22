@@ -39,11 +39,11 @@ The main problems people faced are:
 
 ## Research & Insights
 
+Facing this issue, I started to quickly draw a mindmap. This helped me to get out of the lines and consider other alternatives I've didn't think about, as the idea of collaboration with polls, or the differentiation of types of stops (route, housing, meal) to better visualize the trip path.
+
 **![Mindmap](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/mindmap.png "Mindmap from Whimsical")**
 
 ###### Mindmap
-
-Facing this issue, I started to quickly draw a mindmap. This helped me to get out of the lines and consider other alternatives I've didn't think about, as the idea of collaboration with polls, or the differentiation of types of stops (route, housing, meal) to better visualize the trip path.
 
 **Shared Platform -** When we travel with some buddies, we need a shared platform to gather information, researches, and thoughts. That where I've started to build my project. The aim was to find an easy and visual way to share thoughts, so polls and comments were two solutions I wanted to add as features to the app.
 
