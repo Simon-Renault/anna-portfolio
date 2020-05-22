@@ -339,10 +339,13 @@ main {
   main .main_projects .margin_right {
     margin: 0 2rem 0 0; }
 
+
 /* project page */
 .image_summary {
   margin: 2rem 0;
 }
+
+
 .project_page {
   margin: 10rem 28vw; }
   .project_page .sumup .project_title {
@@ -352,6 +355,7 @@ main {
   
   .project_page img {
     width: 100%;
+    margin: 1rem 0 0 0;
      }
   .project_page .separator {
     height: 1px;
