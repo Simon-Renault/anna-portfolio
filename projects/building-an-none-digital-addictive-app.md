@@ -71,9 +71,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Create a new stop -** Create a new stop to the trip should be quick to do. As information is needed, we can fill some additional details (date, location, type of activity), but because there are so many edge cases, some items such as date, description, external link, poll, and location are not required. When we want to create a new stop from an external link thanks to the "share" button from our browser, external link and title will be pre-filled, to make it easier and quicker. Same when we create a new stop from the internal map of the app, title, and location will be pre-filled. Create a new stop from Google Maps or other apps would be possible as well, as soon as information can be extracted from the app.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/new_stop.png)
-
-###### Add a new stop to the trip
+###### ![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/new_stop.png)Add a new stop to the trip
 
 **Polls -** When the user creates a new stop, it's possible to create a poll inside it. It will drive travelers to express opinions easily and so to make decisions more quickly. When you haven't voted yet, for sure you can't see poll results, so not to be influenced. Travelers can discuss decision thought comments.
 
