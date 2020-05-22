@@ -91,7 +91,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 ![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map - place.png)
 
-Explore a place
+###### Explore a place
 
 **Agenda -** I decided to design two different views on the agenda:
 
