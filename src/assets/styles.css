@@ -341,9 +341,7 @@ main {
 
 
 /* project page */
-.image_summary {
-  margin: 2rem 0;
-}
+
 
 
 .project_page {
@@ -365,6 +363,9 @@ main {
   .project_page .content .image_content {
     margin: 3rem 0; }
 
+.image_summary {
+  margin: 2rem 0;
+}
 /* Footer */
 .footer {
   background-color: #FAFAFA;
