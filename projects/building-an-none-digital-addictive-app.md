@@ -15,7 +15,7 @@ intro: I love travel and I've always love. If you ask me what is the thing I wou
 
 **Eco-Friendly Road-Trip -** As I've just said previously, traveling and respecting the environment are two things that can work together. If we make some efforts, we realize that most of the activities we love to do could be done sustainably. We can first prefer public transports, bike or even our own feet to travel. Then we can buy products to local sellers in the country we're visiting. We can sleep at local people's homes to generate money for local people, rather than huge international resorts, or we can use our tent while respecting nature around us without generating waste. There are so many alternatives and many more opportunities and adventures to live in this way of traveling.
 
-**Planning a sustainable trip -** But why most of the people don't travel this way? Here's the pain point I wanted to work on. If we want to organize a road trip with our own car and explode our carbon footprint, we have to be organized, for sure, but we can leave when we want, eat when we want, go and back whenever. Now, if we decide to make this road-trip more sustainable and eco-friendly, we will use public transports, so we will need to be very organized to be aware of bus or train timetables - or if we want to ride Europe by bike, we will need to plan some breaks and know routes we should take to ride quietly (as the EuroVelo, a cycle route network all around Europe).
+**Planning a sustainable trip -** But why most of the people don't travel this way? Here's the pain point I wanted to work on. If we want to organize a road trip with our car and explode our carbon footprint, we have to be organized, for sure, but we can leave when we want, eat when we want, go and back whenever. Now, if we decide to make this road-trip more sustainable and eco-friendly, we will use public transports, so we will need to be very organized to be aware of bus or train timetables - or if we want to ride Europe by bike, we will need to plan some breaks and know routes we should take to ride quietly (as the EuroVelo, a cycle route network all around Europe).
 
 I've made a road-trip with two amazing friends on Kyushu island, in Japan, for 3 weeks last March. We had no car, we were in the Japanese countryside (so with very few choices in terms of public transport), but we traveled around 10 cities in Kyushu. I let you imagine the kind of organization we needed for this road-trip. Funny thing is over there, everyone asks us "But, you don't have any car?". One day, a woman was shocked to learn that we've planned to go down a mount on foot, even if it will take 4 hours (well my friend explains her we aim to get Shakira's body). So if we succeed to travel without a car even in the Japanese countryside where bus timetables are only available on paper in situ, I'm sure traveling in Europe in an eco-friendly manner is not so complicated.
 
@@ -47,7 +47,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Shared Platform -** When we travel with some buddies, we need a shared platform to gather information, researches, and thoughts. That where I've started to build my project. The aim was to find an easy and visual way to share thoughts, so polls and comments were two solutions I wanted to add as features to the app.
 
-**Checklist and Organisation -** Making lists is still one of the best and easier way to plan things and be sure not to forget anything. Integrate a checklist feature became clear to me, as well as give to travelers some advice, especially how to travel sustainably.
+**Checklist and Organisation -** Making lists is still one of the best and easier way to plan things and be sure not to forget anything. Integrate a checklist feature became clear to me, as well as to give some pieces of advice to travelers, especially how to travel sustainably.
 
 **Open Data -** Thanks to the open-data world, it would be easy to integrate a map based on Google data, so that users can find every place they want to add to their trip. The aim is to add a location directly from the app on their trip.
 
@@ -59,54 +59,53 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Trips List -** The entry point of the app would be the trips list. An attractive visual is quite important especially here to drive travelers to enter. Once we click on a trip, different actions are possible: browse the trip, edit it, or delete it.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/trip_list.png)
+![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/trip_list.png](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/trip_list.png)
 
 ###### Trips List
 
 **Browse Trip -** When we select "view" on the previous screen, we can browse the trip through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, we can have a short preview of those three features.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/home_and_notif.gif)
+![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/home_and_notif.gif](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/home_and_notif.gif)
 
 ###### Home Screen (left) - Notifications (right)
 
 **Create a new stop -** Create a new stop to the trip should be quick to do. As information is needed, we can fill some additional details (date, location, type of activity), but because there are so many edge cases, some items such as date, description, external link, poll, and location are not required. When we want to create a new stop from an external link thanks to the "share" button from our browser, external link and title will be pre-filled, to make it easier and quicker. Same when we create a new stop from the internal map of the app, title, and location will be pre-filled. Create a new stop from Google Maps or other apps would be possible as well, as soon as information can be extracted from the app.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/new_stop.png)
+![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/new_stop.png](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/new_stop.png)
 
 ###### Add a new stop to the trip
 
 **Polls -** When the user creates a new stop, it's possible to create a poll inside it. It will drive travelers to express opinions easily and so to make decisions more quickly. When you haven't voted yet, for sure you can't see poll results, so not to be influenced. Travelers can discuss decision thought comments.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/polls.png)
+![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/polls.png](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/polls.png)
 
 ###### Poll
 
 **Maps & Itinerary -** The first thing we will see when we open the map will be the different stops of the itinerary on the map and the next stop highlight on a card at the bottom. When we drag the card to the top, we can have a detailled view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-itinerary.png)
+![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-itinerary.png](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-itinerary.png)
 
 ###### Trip itinerary
 
 **Map & Explore Places -** We are also able to explore some places and directly add it to our trip. We can remove a stop from the trip with "remove" or share this place into another app (Google Maps for instance to start navigation). Travel duration is also indicated to inform travelers.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-place.png)
+###### ![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-place.png](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-place.png)
 
 ###### Explore a place
 
 **Agenda -** I decided to design two different views on the agenda:
 
-* a calendar view, in order to visualize the trip though months, and have the view of an all-day stops
+* a calendar view, to visualize the trip though months, and have the view of an all-day stops
 * a schedule view, to visualize, month by month, all the stops
 
-In both cases, colors and icons allow travelers to easily differentiate stops types (routes, meals, nature, city, housing) in order to better understand the journey schema.
+In both cases, colors and icons allow travelers to easily differentiate stops types (routes, meals, nature, city, housing) to better understand the journey schema.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/agenda.gif)
-
-###### Agenda - Calendar View (left) - Schedule View (right)
+###### ![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/agenda.gif](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/agenda.gif)  
+Agenda - Calendar View (left) - Schedule View (right)
 
 **Checklists -** Finally, travelers can create checklists. These checklists can be private, public, or shared only with some friends
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif)
+![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif)
 
 ###### Tips (left) - Create a new item to a checklist (right)
 
