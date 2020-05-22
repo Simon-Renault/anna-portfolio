@@ -57,9 +57,9 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Trips List -** The entry point of the app would be the trips list. An attractive visual is quite important especially here to drive travelers to enter. Once we click on a trip, different actions are possible: browse the trip, edit it, or delete it.
 
-**Browse Trip -** When we select "view" on the previous screen, we can browse the trip through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, we can have a short preview of those three features.
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/home_and_notif.gif)
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/animation_home.gif)
+**Browse Trip -** When we select "view" on the previous screen, we can browse the trip through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, we can have a short preview of those three features.
 
 **Create a new stop -** Create a new stop to the trip should be quick to do. As information is needed, we can fill some additional details (date, location, type of activity), but because there are so many edge cases, some items such as date, description, external link, poll and location are not required. When we want to create a new stop from an external link thanks to the "share" button from our browser, external link and title will be pre-filled, to make it easier and quicker. Same when we create a new stop from the internal map of the app, title, and location will be pre-filled. Create a new stop from Google Maps or other apps would be possible as well, as soon as information can be extracted from the app.
 
