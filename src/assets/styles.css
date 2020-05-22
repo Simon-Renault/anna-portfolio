@@ -69,6 +69,16 @@ h3 {
   padding: 0 0 20px 0;
 }
 
+h6 {
+  text-align: center;
+  font-family: 'Karla', sans-serif;
+  color: rgb(112, 112, 112);
+  font-size: 1rem;
+  font-weight: 300;
+  font-style: italic;
+  padding: 0 0 2rem 0;
+}
+
 blockquote p {
   font-family: 'Noto Serif JP', serif;
   color: black;
@@ -330,15 +340,19 @@ main {
     margin: 0 2rem 0 0; }
 
 /* project page */
+.image_summary {
+  margin: 2rem 0;
+}
 .project_page {
   margin: 10rem 28vw; }
   .project_page .sumup .project_title {
     padding: 0 4rem; }
   .project_page .sumup .date {
     margin: 1rem 0; }
+  
   .project_page img {
     width: 100%;
-    margin: 2rem 0; }
+     }
   .project_page .separator {
     height: 1px;
     width: 10%;
