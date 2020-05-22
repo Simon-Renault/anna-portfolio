@@ -98,9 +98,9 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 In both cases, colors and icons allow travelers to easily differentiate stops types (routes, meals, nature, city, housing) to better understand the journey schema.
 
-###### ![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/agenda.gif](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/agenda.gif)
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/agenda.gif)
 
-Agenda - Calendar View (left) - Schedule View (right)
+###### Agenda - Calendar View (left) - Schedule View (right)
 
 **Checklists -** Finally, travelers can create checklists. These checklists can be private, public, or shared only with some friends
 
