@@ -21,7 +21,7 @@ I've made a road-trip with two amazing friends on Kyushu island, in Japan, for 3
 
 **Save time and get better organized -** During this trip to Japan, we've realized we needed a tool to help us to organize this big adventure. Of course, there were a lot of tools available for us: Google Docs, Trello, Google Maps. A lot of tools, but nothing to gather everything and make it practical. Google Docs is nice to gather information, but even if you rather using comments and tables of contents, your document quickly became messy. Trello is better to gather information semantically, but as Google Docs, you can't visualize your planning in time and space (agenda and map features are missing).
 
-> We spend 3 days to plan our trip, but with a better tool, we would be able to spend less time.
+> _We spend 3 days to plan our trip, but with a better tool, we would be able to spend less time._
 
 ## Problems
 
