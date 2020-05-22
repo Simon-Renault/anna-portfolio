@@ -41,7 +41,7 @@ The main problems people faced are:
 
 Facing this issue, I started to quickly draw a mindmap. This helped me to get out of the lines and consider other alternatives I've didn't think about, as the idea of collaboration with polls, or the differentiation of types of stops (route, housing, meal) to better visualize the trip path.
 
-**![Mindmap](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/mindmap.png "Mindmap from Whimsical")**
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/mindmap.png)
 
 ###### Mindmap
 
