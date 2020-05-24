@@ -89,9 +89,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Map & Explore Places -** We are also able to explore some places and directly add it to our trip. We can remove a stop from the trip with "remove" or share this place into another app (Google Maps for instance to start navigation). Travel duration is also indicated to inform travelers.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-place.png)
-
-###### Explore a place
+Explore a place
 
 **Agenda -** I decided to design two different views on the agenda:
 
