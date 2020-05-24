@@ -3,8 +3,8 @@ date: 2020-03-29
 project_date: 2020-06-17T23:00:00.000+00:00
 thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/hello.png
 title: Nomad. Plan an eco-friendly road-trip among friends
-intro: I love travel and I've always love. If you ask me what is the thing I would
-  love to do for the rest of my life, it will be traveling, for sure. But we realize
+intro: I love to travel and I'll always love. If you ask me what is the thing I would
+  love to do for the rest of my life, it will definitively be traveling. But we realize
   more and more that traveling costs a lot for the planet, and it's not for sure the
   best ecological activity to do. Stop it? No way! As a designer, I usually say that
   there's always a solution. Nomad is an app to help travelers to organize an eco-friendly
@@ -13,7 +13,7 @@ intro: I love travel and I've always love. If you ask me what is the thing I wou
 ---
 ## Background
 
-**Eco-Friendly Road-Trip -** As I've just said previously, traveling and respecting the environment are two things that can work together. If we make some efforts, we realize that most of the activities we love to do could be done sustainably. We can first prefer public transports, bike or even our own feet to travel. Then we can buy products to local sellers in the country we're visiting. We can sleep at local people's homes to generate money for local people, rather than huge international resorts, or we can use our tent while respecting nature around us without generating waste. There are so many alternatives and many more opportunities and adventures to live in this way of traveling.
+**Eco-Friendly Road-Trip -** As I've just said previously, traveling and respecting the environment are two things that can work together. If we make some efforts, we realize that most of the activities we love to do could be done more sustainably. We can first prefer public transports, bike or even our own feet to travel. Then we can buy products to local sellers in the country we're visiting. We can sleep at people's homes to generate money for local people, rather than huge international resorts, or we can use our tent while respecting nature around us without generating waste. There are so many alternatives and many more opportunities and adventures to live in this way of traveling.
 
 **Planning a sustainable trip -** But why most of the people don't travel this way? Here's the pain point I wanted to work on. If we want to organize a road trip with our car and explode our carbon footprint, we have to be organized, for sure, but we can leave when we want, eat when we want, go and back whenever. Now, if we decide to make this road-trip more sustainable and eco-friendly, we will use public transports, so we will need to be very organized to be aware of bus or train timetables - or if we want to ride Europe by bike, we will need to plan some breaks and know routes we should take to ride quietly (as the EuroVelo, a cycle route network all around Europe).
 
