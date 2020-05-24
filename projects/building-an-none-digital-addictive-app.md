@@ -41,7 +41,7 @@ The main problems people faced are:
 
 Facing this issue, I started to quickly draw a mindmap. This helped me to get out of the lines and consider other alternatives I've didn't think about before, as the idea of collaboration with polls, or the differentiation of stops types (route, housing, meal) to better visualize the trip schema.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/mindmap2.png)
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/mindmap.png)
 
 ###### Mindmap
 
@@ -65,7 +65,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Browse Trip -** When we select a trip on the previous screen, we can browse it through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, we can have a short preview of those three features.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/home_and_notif.gif)
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/home.gif)
 
 ###### Home Screen (left) - Notifications (right)
 
@@ -81,7 +81,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 ###### Poll
 
-**Maps & Itinerary -** The first thing we will see when we open the map will be the different stops of the itinerary on the map and the next stop highlight on the bottom-sheet. When we drag this bottom-sheet to the top, we can have a detailled view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user/
+**Maps & Itinerary -** The first thing we will see when we open the map will be the different stops of the itinerary on the map and the next stop highlight on the bottom-sheet. When we drag this bottom-sheet to the top, we can have a detailed view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user/
 
 ![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-itinerary.png)
 
@@ -89,7 +89,9 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Map & Explore Places -** We are also able to explore some places and directly add it to our trip. We can remove a stop from the trip with "remove" or share this place into another app (Google Maps for instance to start navigation). Travel duration is also indicated to inform travelers.
 
-Explore a place
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-place.png)
+
+###### Explore a place
 
 **Agenda -** I decided to design two different views on the agenda:
 
@@ -104,7 +106,9 @@ In both cases, colors and icons allow travelers to easily differentiate stops ty
 
 **Checklists -** Finally, travelers can create checklists. These checklists can be private, public, or shared only with some friends
 
-###### ![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif)Tips (left) - Create a new item in a checklist (right)
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif)
+
+###### Tips (left) - Create a new item in a checklist (right)
 
 ## Conclusion
 
