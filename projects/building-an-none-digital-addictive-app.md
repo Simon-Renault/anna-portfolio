@@ -83,9 +83,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Maps & Itinerary -** The first thing we will see when we open the map will be the different stops of the itinerary on the map and the next stop highlight on a card at the bottom. When we drag the card to the top, we can have a detailled view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-itinerary.png)
-
-###### Trip itinerary
+Trip itinerary
 
 **Map & Explore Places -** We are also able to explore some places and directly add it to our trip. We can remove a stop from the trip with "remove" or share this place into another app (Google Maps for instance to start navigation). Travel duration is also indicated to inform travelers.
 
