@@ -13,10 +13,8 @@ intro: In an article published in 2018, Head of Localization Salvatore â€œSalvoâ
 ---
 ## Features
 
-**Set a new goal**
-
 ![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/habit.jpg)
 
 ###### An example of a goal
 
-Let's take a look at this goal example. I want to become comfortable in cooking. I will first define the goal: become independent from food deliveries, cook more often, and eat healthier. Then, I will set a list of milestones. I want to make this a habit, so let's set a reminder to goal every weekday in the evening and twice every weekend in the morning. I had the impression that I don't have enough time, so I will set how much time I need to set up this new goal. Once I've entered how much time I need, the application will suggest apps I spend too much time on during those moments when I need free time to set up my new goal. I can select apps that I want to spend less time on, and here we go!
+**Set a new goal -** Let's take a look at this goal example. I want to become comfortable in cooking. I will first define the goal: become independent from food deliveries, cook more often, and eat healthier. Then, I will set a list of milestones. I want to make this a habit, so let's set a reminder to goal every weekday in the evening and twice every weekend in the morning. I had the impression that I don't have enough time, so I will set how much time I need to set up this new goal. Once I've entered how much time I need, the application will suggest apps I spend too much time on during those moments when I need free time to set up my new goal. I can select apps that I want to spend less time on, and here we go!
