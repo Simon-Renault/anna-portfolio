@@ -47,6 +47,10 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Shared Platform -** When we travel with some buddies, we need a shared platform to gather information, researches, and thoughts. That where I've started to build my project. The aim was to find an easy and visual way to share thoughts, so polls and comments were two solutions I wanted to add as features to the app.
 
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/schema.jpg)
+
+###### Shared Platform
+
 **Checklist and Organisation -** Making lists is still one of the best and easier way to plan things and be sure not to forget anything. Integrate a checklist feature became clear to me, as well as to give some pieces of advice to travelers, especially how to travel sustainably.
 
 **Map -** Integrate a Google-based map so that users can find every place they want to add to their trip. The aim is to add a location to your trip directly from the app.
