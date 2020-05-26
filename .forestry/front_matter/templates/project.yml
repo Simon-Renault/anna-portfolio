@@ -41,11 +41,6 @@ fields:
       format: markdown
   label: intro
   description: quick intro to the project
-- name: author
-  type: include
-  config: {}
-  template: author
-  label: author
 pages:
 - case_studies/create-a-user-centric-cms-for-software-agents.md
 - case_studies/the-case-study.md
