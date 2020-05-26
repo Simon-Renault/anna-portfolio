@@ -11,12 +11,11 @@ intro: In an article published in 2018, Head of Localization Salvatore â€œSalvoâ
   iOS, Android, and mobile web, for a total of 62 supported languages.
 
 ---
-
 ## Features
 
 **Set a new goal**
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/Untitled 1.jpg)
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/habit.jpg)
 
 ###### An example of a goal
 
