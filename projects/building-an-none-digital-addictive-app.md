@@ -1,7 +1,7 @@
 ---
 date: 2020-03-29
 project_date: 2020-06-17T23:00:00.000+00:00
-thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/hello.png
+thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/thumbnail_nomad.png
 title: Nomad. Plan an eco-friendly road-trip among friends
 intro: I love to travel and I'll always love it. If you ask me what is the thing I
   would love to do for the rest of my life, it will definitively be traveling. But
