@@ -33,7 +33,7 @@ The main problems people faced are:
 
 ## Challenges
 
-* Create a clean and sharable platform to gather information without make it messy
+* Create a clean and sharable platform to gather information without making it messy
 * Allow users to visualize the trip in time and space
 * Help users to find solutions and alternatives to travel in a sustainable way
 
