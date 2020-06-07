@@ -68,4 +68,8 @@ Create a new habit - By creating a new habit, we'll start defining a color theme
 
 **Miss to set a day as done -** The user will always have the possibility to set a habit as done even if the day is over ("I did it yesterday") because sometimes we just forget to check our phone and the aim is not to generate frustration or to push users to stay focus on his screen all the time.
 
+![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/anim_day_status.gif)
+
+###### User can change the day status even if the day is over
+
 **Challenge Requests** - Friends can send us some challenge requests to invite us to get in a new habit with them.
