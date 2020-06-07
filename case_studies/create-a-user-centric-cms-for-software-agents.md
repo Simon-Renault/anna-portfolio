@@ -9,5 +9,7 @@ intro: In an article published in 2018, Head of Localization Salvatore â€œSalvoâ
   Salvo and Globalization Design Lead Taido Nakajima to fill us in on the tight cross-functional
   partnership that recently allowed Airbnb to launch 31 new languages across web,
   iOS, Android, and mobile web, for a total of 62 supported languages.
+hero_image: ''
 
 ---
+ 
