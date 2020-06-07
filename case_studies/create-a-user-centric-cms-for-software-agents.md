@@ -1,7 +1,7 @@
 ---
 date: 2020-03-29
 project_date: 2020-03-24T00:00:00.000+00:00
-thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/:filename/cover.jpg
+thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/tomorrow_trumbnail.png
 title: Tomorrow - Life is too short to lose time
 intro: In an article published in 2018, Head of Localization Salvatore “Salvo” Giammarresi
   explained the importance of prioritizing globalization efforts at Airbnb. Now, fresh
