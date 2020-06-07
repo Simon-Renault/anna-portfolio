@@ -4,7 +4,7 @@
         
         <div class="intro">
             <h2 class="project_title">{{settings.hero_title}}</h2>
-            <p class="courant_italic" v-html="settings.hero_text"></p>
+            <p class="courant_regular" v-html="settings.hero_text"></p>
         </div>
 
         <div class="scroll bg-grey"> 
