@@ -9,7 +9,7 @@ intro: I love to travel and I'll always love it. If you ask me what is the thing
   for sure the best ecological activity to do. Stop it? No way! As a designer, I usually
   say that there's always a solution. Nomad is an app to help travellers to organize
   an eco-friendly and sustainable road-trip.
-hero_image: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/habit.jpg
+hero_image: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/nomad_hero_image.png
 
 ---
 ## Background 
