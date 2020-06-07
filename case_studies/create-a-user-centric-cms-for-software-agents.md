@@ -70,6 +70,6 @@ Create a new habit - By creating a new habit, we'll start defining a color theme
 
 ![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/anim](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/anim_day_status.gif)
 
-### User can change the day status even if the day is over
+###### User can change the day status even if the day is over
 
 **Challenge Requests** - Friends can send us some challenge requests to invite us to get in a new habit with them.
