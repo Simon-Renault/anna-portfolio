@@ -64,7 +64,7 @@ Create a new habit - By creating a new habit, we'll start defining a color theme
 
 **Habit Grid** - Once we're into a habit for several weeks or months, we can see our advancement through the screen. The grey boxes represent the days we missed to do it, and the primary color represents the days we did it. And for instance, here, white boxes represent the days we're not supposed to do it because we've planned to do this habit only during weekdays.
 
-**Miss to set a day as done -** The user will always have the possibility to set a habit as done even if the day is over ("I did it yesterday") because sometimes we just forget to check our phone and the aim is not to generate frustration or to push users to stay focus on his screen all the time.
+**Miss to set a day as done -** The user will always have the possibility to set a habit as done even if the day is over ("I did it yesterday but I forgot to set it") because sometimes we just forget to check our phone and the aim is not to generate frustration or to push users to stay focus on his screen all the time.
 
 ![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/anim_day_status.gif)
 
