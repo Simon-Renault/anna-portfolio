@@ -24,7 +24,7 @@
                         <img :src="item.node.thumbnail" alt="">
                     </div>
                     <div class="description">
-                        <h4 class="courant_italic">{{item.node.title}}</h4>
+                        <h4 class="courant_regular">{{item.node.title}}</h4>
                     </div>
                 </g-link> 
             </div>
@@ -42,7 +42,7 @@
                             <img :src="item.node.thumbnail" alt="">
                         </div>
                         <div class="description">
-                            <h4 class="courant_italic">{{item.node.title}}</h4>
+                            <h4 class="courant_regular">{{item.node.title}}</h4>
                         </div>
                     </g-link> 
                 </div>
