@@ -27,3 +27,17 @@ I want to talk about Steven Pressfield, the author of "The war of art". In his b
 ![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/life-calendar.png "Life calendar Representation")
 
 ###### Here is my life calendar with my 22-year-old life. Sob...
+
+## Problems
+
+The main issues we are facing:
+
+* People are not motivated in the long term and give up a habit after a month
+* We waste time without realizing it
+* We spend too much time on screens
+
+## Challenges
+
+* Bring a long-term vision to a habit
+* Allows users to easily visualize him or her consistency
+* Bring motivation in new good habits
