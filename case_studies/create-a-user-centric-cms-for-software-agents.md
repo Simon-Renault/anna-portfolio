@@ -41,3 +41,5 @@ The main issues we are facing:
 * Bring a long-term vision to a habit
 * Allows users to easily visualize him or her consistency
 * Bring motivation in new good habits
+
+## Researches & Insights
