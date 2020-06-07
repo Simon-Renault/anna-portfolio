@@ -5,7 +5,7 @@ thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-port
   UI Kit - Post 3.png
 title: Ellie - Blog UI Kit
 intro: Intro
-hero_image: ''
+hero_image: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/habit.jpg
 
 ---
  
