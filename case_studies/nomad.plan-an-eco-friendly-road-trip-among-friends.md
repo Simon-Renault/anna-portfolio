@@ -9,9 +9,10 @@ intro: I love to travel and I'll always love it. If you ask me what is the thing
   for sure the best ecological activity to do. Stop it? No way! As a designer, I usually
   say that there's always a solution. Nomad is an app to help travellers to organize
   an eco-friendly and sustainable road-trip.
+hero_image: ''
 
 ---
-## Background
+## Background 
 
 **Eco-Friendly Road-Trip -** As I've just said previously, traveling and respecting the environment are two things that can work together. If we make some efforts, we realize that most of the activities we love to do could be done more sustainably. We can first prefer public transports, bike or even our own feet to travel. Then we can buy products to local sellers in the country we're visiting. We can sleep at people's homes to generate money for local people, rather than huge international resorts, or we can use our tent while respecting nature around us without generating waste. There are so many alternatives and many more opportunities and adventures to live in this way of traveling.
 
