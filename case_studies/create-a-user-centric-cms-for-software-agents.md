@@ -18,9 +18,7 @@ hero_image: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-por
 
 **Life is too short to lose time -** So as I've just said before, we're all able to lose time without realizing it. Postpone is also a way to lose time. We all have a bucket life, a list of crazy or less crazy dreams we want to archive. Those crazy or less crazy dreams also have something in common: we are afraid of archive it. Sometimes because it takes time, sometimes because it hard to archive and you won't see your advancement immediately.
 
-> Dost thou love life? Then do not squander time, for it's the stuff that life is made of
->
-> \- Benjamin Franklin
+> Dost thou love life? Then do not squander time, for it's the stuff that life is made of - Benjamin Franklin
 
 I want to talk about Steven Pressfield, the author of "The war of art". In his book, the author writes about the concept of the resistance, a kind of toxic thing that fights against our inner genius who wants to archive our dreams. The resistance, according to Steven Pressfield, defends us to reach our dreams by making us afraid of: "I think I'm not ready yet", "today is not the good day" or worst "I still have time, I can start later". The way how Steven Pressfield personifies the concept of the resistance is very clever, and it serves to illustrate quite well the idea of procrastination. That's a perfect transition to take a look at another concept to understand how time is precious, [the life calendar](https://ezhilangunasekaran.github.io/life-calendar/): it's a 4693-box grid that represents a 90-year-old life. One box is one week. When you fill the weeks that you've already lived, it's scary to realize how much time it's left.
 
