@@ -12,17 +12,15 @@ intro: In an article published in 2018, Head of Localization Salvatore â€œSalvoâ
 hero_image: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/tomorrow_hero_image.png
 
 ---
-# Tomorrow
-
-Tomorrow - Life is too short to lose time
-
 ## Background
 
 **A world where we procrastinate more and more -** Our world is changing very fast, and so we change our way of living as well. Our digital technologies push us to go to the most comfortable and easiest solution, again and again. Facebook is here to make us remember our friends and relatives birthdays, Waze helps us to find the right road to take, even if it's to go to your grandma (and the road to go to grandma's home never change), and Google is never far from us to help us to convert centimeters into millimeters, uh? That's what we call "digital amnesia". It's like to plug our brain to a hard drive so that we could find the right information we're looking for. The problem is that this digital amnesia is turning into a digital dependency. We need the Internet and digital tools to live, and most of the time, we use it even if we don't really need it. The main consequence of that is our screen time that increases more and more. In the UK, [the average screen time](https://www.codecomputerlove.com/blog/screen-time-stats) is 3 hours and 23 minutes per day, and if we convert this time into days in a year, it represents 50 days per year. This is insane. Then, if you think about what kind of app you spend the most time, you realize how much time you lose in your life.
 
 **Life is too short to lose time -** So as I've just said before, we're all able to lose time without realizing it. Postpone is also a way to lose time. We all have a bucket life, a list of crazy or less crazy dreams we want to archive. Those crazy or less crazy dreams also have something in common: we are afraid of archive it. Sometimes because it takes time, sometimes because it hard to archive and you won't see your advancement immediately.
 
-> Dost thou love life? Then do not squander time, for it's the stuff that life is made of - Benjamin Franklin
+> Dost thou love life? Then do not squander time, for it's the stuff that life is made of 
+>
+> \- Benjamin Franklin
 
 I want to talk about Steven Pressfield, the author of "The war of art". In his book, the author writes about the concept of the resistance, a kind of toxic thing that fights against our inner genius who wants to archive our dreams. The resistance, according to Steven Pressfield, defends us to reach our dreams by making us afraid of: "I think I'm not ready yet", "today is not the good day" or worst "I still have time, I can start later". The way how Steven Pressfield personifies the concept of the resistance is very clever, and it serves to illustrate quite well the idea of procrastination. That's a perfect transition to take a look at another concept to understand how time is precious, [the life calendar](https://ezhilangunasekaran.github.io/life-calendar/): it's a 4693-box grid that represents a 90-year-old life. One box is one week. When you fill the weeks that you've already lived, it's scary to realize how much time it's left.
 
@@ -46,7 +44,7 @@ The main issues we are facing:
 
 ## Researches & Insights
 
-![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/github_grid.png](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/github_grid.png)
+![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/github](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/github_grid.png)
 
 ### Yep, I didn't make a lot of contributions yet in Github :/
 
@@ -70,7 +68,7 @@ Create a new habit - By creating a new habit, we'll start defining a color theme
 
 **Miss to set a day as done -** The user will always have the possibility to set a habit as done even if the day is over ("I did it yesterday but I forgot to set it") because sometimes we just forget to check our phone and the aim is not to generate frustration or to push users to stay focus on his screen all the time.
 
-![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/anim_day_status.gif](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/anim_day_status.gif)
+![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/anim](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/anim_day_status.gif)
 
 ### User can change the day status even if the day is over
 
