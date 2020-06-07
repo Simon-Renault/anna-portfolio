@@ -15,6 +15,11 @@ fields:
   name: thumbnail
   label: Thumbnail
   description: This will only show up on the front page
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: hero image
 - type: text
   name: title
   label: Title
