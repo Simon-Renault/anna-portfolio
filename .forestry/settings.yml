@@ -9,11 +9,15 @@ sections:
   label: Case studies
   create: documents
   match: "**/*.md"
+  templates:
+  - project
 - type: directory
   path: projects
   label: Projects
   create: documents
   match: "**/*.md"
+  templates:
+  - project
 - type: document
   path: data/theme.json
   label: Theme config
