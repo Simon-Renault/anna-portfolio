@@ -14,8 +14,6 @@ sections:
   label: Projects
   create: documents
   match: "**/*.md"
-  templates:
-  - project
 - type: document
   path: data/theme.json
   label: Theme config
