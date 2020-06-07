@@ -7,7 +7,7 @@
                     <h2 class="project_title center">{{$page.post.title}}</h2>
                     <h3 class="date caption center">{{$page.post.date}}</h3>
                 </div>
-                <img class="image_summary" :src="$page.post.thumbnail" alt="">
+                <img class="image_summary" :src="$page.post.hero_image" alt="">
                 <p class="courant_italic">{{$page.post.intro}}</p>
             </div>
             <div class="separator"></div>
@@ -23,7 +23,7 @@ query ProjectPost ($path: String!) {
     title
     intro
     date (format: "MMMM DD, YYYY")
-    thumbnail 
+    hero_image 
     content
   }
 }
