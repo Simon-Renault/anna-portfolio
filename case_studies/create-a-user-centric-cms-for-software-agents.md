@@ -12,13 +12,13 @@ intro: In an article published in 2018, Head of Localization Salvatore â€œSalvoâ
 hero_image: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/tomorrow_hero_image.png
 
 ---
-## Background
+## Background 
 
 **A world where we procrastinate more and more -** Our world is changing very fast, and so we change our way of living as well. Our digital technologies push us to go to the most comfortable and easiest solution, again and again. Facebook is here to make us remember our friends and relatives birthdays, Waze helps us to find the right road to take, even if it's to go to your grandma (and the road to go to grandma's home never change), and Google is never far from us to help us to convert centimeters into millimeters, uh? That's what we call "digital amnesia". It's like to plug our brain to a hard drive so that we could find the right information we're looking for. The problem is that this digital amnesia is turning into a digital dependency. We need the Internet and digital tools to live, and most of the time, we use it even if we don't really need it. The main consequence of that is our screen time that increases more and more. In the UK, [the average screen time](https://www.codecomputerlove.com/blog/screen-time-stats) is 3 hours and 23 minutes per day, and if we convert this time into days in a year, it represents 50 days per year. This is insane. Then, if you think about what kind of app you spend the most time, you realize how much time you lose in your life.
 
 **Life is too short to lose time -** So as I've just said before, we're all able to lose time without realizing it. Postpone is also a way to lose time. We all have a bucket life, a list of crazy or less crazy dreams we want to archive. Those crazy or less crazy dreams also have something in common: we are afraid of archive it. Sometimes because it takes time, sometimes because it hard to archive and you won't see your advancement immediately.
 
-> Dost thou love life? Then do not squander time, for it's the stuff that life is made of 
+> Dost thou love life? Then do not squander time, for it's the stuff that life is made of
 >
 > \- Benjamin Franklin
 
