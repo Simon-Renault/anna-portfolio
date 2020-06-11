@@ -22,7 +22,7 @@ sections:
   path: data/theme.json
   label: Theme config
 upload_dir: ''
-public_path: ''
+public_path: https://annarabeonybucket.s3.eu-west-2.amazonaws.com
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
