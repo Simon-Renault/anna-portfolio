@@ -42,5 +42,10 @@ fields:
     schema:
       format: markdown
   label: Footer text
+- name: jj
+  type: include
+  config: {}
+  template: nnn
+  label: jj
 pages:
 - data/theme.json
