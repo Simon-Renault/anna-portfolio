@@ -21,8 +21,8 @@ sections:
 - type: document
   path: data/theme.json
   label: Theme config
-upload_dir: anna-portfolio
-public_path: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio
+upload_dir: ''
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
