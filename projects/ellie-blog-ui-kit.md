@@ -1,6 +1,6 @@
 ---
 date: 2020-05-28
-project_date: 2020-03-31T23:00:00.000+00:00
+project_date: 2020-04-06T23:00:00Z
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Ellie_trumbnail.png
 title: Ellie - Blog UI Kit
 intro: 'I have to admit that I''m a visual people. Yep, I care about visual but I
