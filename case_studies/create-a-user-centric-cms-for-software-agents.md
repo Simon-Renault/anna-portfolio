@@ -56,13 +56,27 @@ Then, I drafted some week patterns according to different types of habits. For i
 
 **Day Status -** I spent some time working on the day status style: how to make the difference between days when the habit should be done, days when it's not planned, days that users missed, and today's day. I've started some iterations by using the primary color for the current day and day when the habit was done, and two other different styles for future days when it's planned and when it's not. But it turns out too complicated and less accessible because there were too many styles. I made several iterations to simplify the thing, and finally, reach a much clearer solution (the last image at the bottom right).
 
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_day_status_iterations.JPG)
+
 ## Solution & Features
 
 **Manage Habits -** On the habits screen, you'll find all the habits you've created and you can check as done habits you've done. I wanted to allows users to check habits even if those habits weren't planned for today, because sometimes we realize we can spend much more time than expected for a good habit, and that's a good thing.
 
-Create a new habit - By creating a new habit, we'll start defining a color theme, set a name, and the aim of this new habit. Then, we'll select which days we want to repeat this habit (week pattern), set some milestones to archive, and then why not make this habit funnier by inviting some friends to do the same.
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_home.png)
+
+###### Home page and Habits list
+
+**Create a new habit -** By creating a new habit, we'll start defining a color theme, set a name, and the aim of this new habit. Then, we'll select which days we want to repeat this habit (week pattern), set some milestones to archive, and then why not make this habit funnier by inviting some friends to do the same.
+
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_anim_create.gif)
+
+###### Create a new habit
 
 **Habit Grid** - Once we're into a habit for several weeks or months, we can see our advancement through the screen. The grey boxes represent the days we missed to do it, and the primary color represents the days we did it. And for instance, here, white boxes represent the days we're not supposed to do it because we've planned to do this habit only during weekdays.
+
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_scroll_habit.gif)
+
+###### Habit Example
 
 **Miss to set a day as done -** The user will always have the possibility to set a habit as done even if the day is over ("I did it yesterday but I forgot to set it") because sometimes we just forget to check our phone and the aim is not to generate frustration or to push users to stay focus on his screen all the time.
 
@@ -71,3 +85,5 @@ Create a new habit - By creating a new habit, we'll start defining a color theme
 ###### User can change the day status even if the day is over
 
 **Challenge Requests** - Friends can send us some challenge requests to invite us to get in a new habit with them.
+
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/challenge_request.png)
