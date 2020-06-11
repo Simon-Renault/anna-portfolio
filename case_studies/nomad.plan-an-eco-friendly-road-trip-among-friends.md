@@ -1,7 +1,7 @@
 ---
 date: 2020-06-07
-project_date: 2020-06-09T23:00:00Z
-thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/thumbnail_nomad.png
+project_date: 2020-06-09T23:00:00.000+00:00
+thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_trumbnail.png
 title: Nomad. Plan an eco-friendly road-trip among friends
 intro: I love to travel and I'll always love it. If you ask me what is the thing I
   would love to do for the rest of my life, it will definitively be traveling. But
@@ -9,10 +9,10 @@ intro: I love to travel and I'll always love it. If you ask me what is the thing
   for sure the best ecological activity to do. Stop it? No way! As a designer, I usually
   say that there's always a solution. Nomad is an app to help travellers to organize
   an eco-friendly and sustainable road-trip.
-hero_image: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/habit.jpg
+hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_hero_image.png
 
 ---
-## Background 
+## Background
 
 **Eco-Friendly Road-Trip -** As I've just said previously, traveling and respecting the environment are two things that can work together. If we make some efforts, we realize that most of the activities we love to do could be done more sustainably. We can first prefer public transports, bike or even our own feet to travel. Then we can buy products to local sellers in the country we're visiting. We can sleep at people's homes to generate money for local people, rather than huge international resorts, or we can use our tent while respecting nature around us without generating waste. There are so many alternatives and many more opportunities and adventures to live in this way of traveling.
 
@@ -42,15 +42,11 @@ The main problems people faced are:
 
 Facing this issue, I started to quickly draw a mindmap. This helped me to get out of the lines and consider other alternatives I've didn't think about before, as the idea of collaboration with polls, or the differentiation of stops types (route, housing, meal) to better visualize the trip schema.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/mindmap.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_mindmap.png)
 
 ###### Mindmap
 
 **Shared Platform -** When we travel with some buddies, we need a shared platform to gather information, researches, and thoughts. That where I've started to build my project. The aim was to find an easy and visual way to share thoughts, so polls and comments were two solutions I wanted to add as features to the app.
-
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/schema.jpg)
-
-###### Shared Platform
 
 **Checklist and Organisation -** Making lists is still one of the best and easier way to plan things and be sure not to forget anything. Integrate a checklist feature became clear to me, as well as to give some pieces of advice to travelers, especially how to travel sustainably.
 
@@ -64,39 +60,39 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 **Trips List -** The entry point of the app would be the trips list. An attractive visual is quite important especially here to drive travelers to enter.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/trips-list.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_trips-list.png)
 
-###### Trips List
+Trips List
 
 **Browse Trip -** When we select a trip on the previous screen, we can browse it through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, we can have a short preview of those three features.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/home.gif)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_home.gif)
 
-###### Home Screen (left) - Notifications (right)
+Home Screen (left) - Notifications (right)
 
 **Create a new stop -** Create a new stop to the trip should be quick to do. As information is needed, we can fill some additional details (date, location, type of activity), but because there are so many edge cases, some items such as date, description, external link, poll, and location are optional. When we want to create a new stop from an external link thanks to the "share" button from our browser, external link and title will be pre-filled, to make it easier and quicker. Same when we create a new stop from the internal map of the app, name and location will be pre-filled. Create a new stop from Google Maps or other apps would be possible as well, as soon as information can be extracted from the app (name, location).
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/new_stop.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_new_stop.png)
 
-###### Add a new stop to the trip
+Add a new stop to the trip
 
 **Polls -** When the user creates a new stop, it's possible to create a poll inside it. It will drive travelers to express opinions easily and so to make decisions quicker. When you haven't voted yet, for sure you can't see poll results, so not to be influenced. Travelers can discuss decision thought comments.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/polls.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_polls.png)
 
-###### Poll
+Poll
 
 **Maps & Itinerary -** The first thing we will see when we open the map will be the different stops of the itinerary on the map and the next stop highlight on the bottom-sheet. When we drag this bottom-sheet to the top, we can have a detailed view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user/
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-itinerary.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_map_itinerary.png)
 
-###### Trip itinerary
+Trip itinerary
 
 **Map & Explore Places -** We are also able to explore some places and directly add it to our trip. We can remove a stop from the trip with "remove" or share this place into another app (Google Maps for instance to start navigation). Travel duration is also indicated to inform travelers.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/map-place.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_map_place.png)
 
-###### Explore a place
+Explore a place
 
 **Agenda -** I decided to design two different views on the agenda:
 
@@ -105,15 +101,15 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 In both cases, colors and icons allow travelers to easily differentiate stops types (routes, meals, nature, city, housing) to better understand the journey schema.
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/agenda.gif)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_agenda.gif)
 
-###### Agenda - Calendar View (left) - Schedule View (right)
+Agenda - Calendar View (left) - Schedule View (right)
 
 **Checklists -** Finally, travelers can create checklists. These checklists can be private, public, or shared only with some friends
 
-![](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/checklist.gif)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_checklist.gif)
 
-###### Tips (left) - Create a new item in a checklist (right)
+Tips (left) - Create a new item in a checklist (right)
 
 ## Conclusion
 
