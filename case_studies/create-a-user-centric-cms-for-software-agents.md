@@ -1,18 +1,16 @@
 ---
 date: 2020-03-29
 project_date: 2020-03-24T00:00:00.000+00:00
-thumbnail: https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/tomorrow_trumbnail.png
+thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_trumbnail.png
 title: Tomorrow - Life is too short to lose time
-intro: In an article published in 2018, Head of Localization Salvatore “Salvo” Giammarresi
-  explained the importance of prioritizing globalization efforts at Airbnb. Now, fresh
-  off the heels of a major localization milestone, we’re revisiting the topic, asking
-  Salvo and Globalization Design Lead Taido Nakajima to fill us in on the tight cross-functional
-  partnership that recently allowed Airbnb to launch 31 new languages across web,
-  iOS, Android, and mobile web, for a total of 62 supported languages.
-hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Ellie_Components.png
+intro: In the UK, we spend on average 50 days per year on screens. But is this time
+  really relevant? We all have dreams on our bucket list that we always postpone because
+  tomorrow will be a better day. Through this project, I wanted to create an app to
+  push people to start to make those dreams something real.
+hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_hero_image.png
 
 ---
-## Background 
+## Background
 
 **A world where we procrastinate more and more -** Our world is changing very fast, and so we change our way of living as well. Our digital technologies push us to go to the most comfortable and easiest solution, again and again. Facebook is here to make us remember our friends and relatives birthdays, Waze helps us to find the right road to take, even if it's to go to your grandma (and the road to go to grandma's home never change), and Google is never far from us to help us to convert centimeters into millimeters, uh? That's what we call "digital amnesia". It's like to plug our brain to a hard drive so that we could find the right information we're looking for. The problem is that this digital amnesia is turning into a digital dependency. We need the Internet and digital tools to live, and most of the time, we use it even if we don't really need it. The main consequence of that is our screen time that increases more and more. In the UK, [the average screen time](https://www.codecomputerlove.com/blog/screen-time-stats) is 3 hours and 23 minutes per day, and if we convert this time into days in a year, it represents 50 days per year. This is insane. Then, if you think about what kind of app you spend the most time, you realize how much time you lose in your life.
 
@@ -24,9 +22,9 @@ hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Ellie_Component
 
 I want to talk about Steven Pressfield, the author of "The war of art". In his book, the author writes about the concept of the resistance, a kind of toxic thing that fights against our inner genius who wants to archive our dreams. The resistance, according to Steven Pressfield, defends us to reach our dreams by making us afraid of: "I think I'm not ready yet", "today is not the good day" or worst "I still have time, I can start later". The way how Steven Pressfield personifies the concept of the resistance is very clever, and it serves to illustrate quite well the idea of procrastination. That's a perfect transition to take a look at another concept to understand how time is precious, [the life calendar](https://ezhilangunasekaran.github.io/life-calendar/): it's a 4693-box grid that represents a 90-year-old life. One box is one week. When you fill the weeks that you've already lived, it's scary to realize how much time it's left.
 
-![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/life-calendar.png](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/life-calendar.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_life_calendar.png)
 
-### Here is my life calendar with my 22-year-old life. Sob...
+###### Here is my life calendar with my 22-year-old life. Sob...
 
 ## Problems
 
@@ -44,9 +42,9 @@ The main issues we are facing:
 
 ## Researches & Insights
 
-![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/github](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/github_grid.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_github_grid.png)
 
-### Yep, I didn't make a lot of contributions yet in Github :/
+###### Yep, I didn't make a lot of contributions yet in Github :/
 
 **Week pattern & Grid View -** I was previously talking about the life calendar and how it's scary to see the rest of the time we have left. If you have a Github account and you take a look at your contributions on your profile page, you can see this kind of year view. A day is represented by a square and green tints depend on how much contributions you've made. First thing, this is insane to see how much a year looks short when we look at this time view. Then, the idea of using color squares to represent days and visualize consistency through a month or a year like this way is a very clever manner.
 
@@ -68,7 +66,7 @@ Create a new habit - By creating a new habit, we'll start defining a color theme
 
 **Miss to set a day as done -** The user will always have the possibility to set a habit as done even if the day is over ("I did it yesterday but I forgot to set it") because sometimes we just forget to check our phone and the aim is not to generate frustration or to push users to stay focus on his screen all the time.
 
-![https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/anim](https://simon-renault-dev-bucket.s3.eu-west-2.amazonaws.com/anna-portfolio/anim_day_status.gif)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_anim_day_status.gif)
 
 ###### User can change the day status even if the day is over
 
