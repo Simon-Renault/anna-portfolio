@@ -1,6 +1,6 @@
 ---
 date: 2020-06-11
-project_date: 2020-05-04T23:00:00Z
+project_date: 2020-04-12T23:00:00Z
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/midori_trumbnail.png
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Midori_Hero.png
 title: Midori - Build an mobile UI kit for a Travel App
