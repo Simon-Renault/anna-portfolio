@@ -62,37 +62,37 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_trips-list.png)
 
-Trips List
+###### Trips List
 
 **Browse Trip -** When we select a trip on the previous screen, we can browse it through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, we can have a short preview of those three features.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_home.gif)
 
-Home Screen (left) - Notifications (right)
+###### Home Screen (left) - Notifications (right)
 
-**Create a new stop -** Create a new stop to the trip should be quick to do. As information is needed, we can fill some additional details (date, location, type of activity), but because there are so many edge cases, some items such as date, description, external link, poll, and location are optional. When we want to create a new stop from an external link thanks to the "share" button from our browser, external link and title will be pre-filled, to make it easier and quicker. Same when we create a new stop from the internal map of the app, name and location will be pre-filled. Create a new stop from Google Maps or other apps would be possible as well, as soon as information can be extracted from the app (name, location).
+**Create a new stop -** Create a new stop to the trip should be quick to do. As information is needed, we can fill some additional details (date, location, type of activity), but because there are so many edge cases, some items such as date, description, external link, poll, and location are optional. When we want to create a new stop from an external link thanks to the "share" button from our browser, external link and title will be pre-filled, to make it easier and quicker. Same when we create a new stop from the internal map of the app, name, and location will be pre-filled. Create a new stop from Google Maps or other apps would be possible as well, as soon as information can be extracted from the app (name, location).
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_new_stop.png)
 
-Add a new stop to the trip
+###### Add a new stop to the trip
 
 **Polls -** When the user creates a new stop, it's possible to create a poll inside it. It will drive travelers to express opinions easily and so to make decisions quicker. When you haven't voted yet, for sure you can't see poll results, so not to be influenced. Travelers can discuss decision thought comments.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_polls.png)
 
-Poll
+###### Poll
 
 **Maps & Itinerary -** The first thing we will see when we open the map will be the different stops of the itinerary on the map and the next stop highlight on the bottom-sheet. When we drag this bottom-sheet to the top, we can have a detailed view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user/
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_map_itinerary.png)
 
-Trip itinerary
+###### Trip itinerary
 
 **Map & Explore Places -** We are also able to explore some places and directly add it to our trip. We can remove a stop from the trip with "remove" or share this place into another app (Google Maps for instance to start navigation). Travel duration is also indicated to inform travelers.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_map_place.png)
 
-Explore a place
+###### Explore a place
 
 **Agenda -** I decided to design two different views on the agenda:
 
@@ -103,13 +103,13 @@ In both cases, colors and icons allow travelers to easily differentiate stops ty
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_agenda.gif)
 
-Agenda - Calendar View (left) - Schedule View (right)
+###### Agenda - Calendar View (left) - Schedule View (right)
 
 **Checklists -** Finally, travelers can create checklists. These checklists can be private, public, or shared only with some friends
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_checklist.gif)
 
-Tips (left) - Create a new item in a checklist (right)
+###### Tips (left) - Create a new item in a checklist (right)
 
 ## Conclusion
 
