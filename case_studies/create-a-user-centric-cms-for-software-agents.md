@@ -42,21 +42,33 @@ The main issues we are facing:
 
 ## Researches & Insights
 
+**Week pattern & Grid View -** I was previously talking about the life calendar and how it's scary to see the rest of the time we have left. If you have a Github account and you take a look at your contributions on your profile page, you can see this kind of year view. A day is represented by a square and green tints depend on how much contributions you've made. First thing, this is insane to see how much a year looks short when we look at this time view. Then, the idea of using color squares to represent days and visualize consistency through a month or a year like this way is a very clever manner.
+
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_github_grid.png)
 
 ###### Yep, I didn't make a lot of contributions yet in Github :/
 
-**Week pattern & Grid View -** I was previously talking about the life calendar and how it's scary to see the rest of the time we have left. If you have a Github account and you take a look at your contributions on your profile page, you can see this kind of year view. A day is represented by a square and green tints depend on how much contributions you've made. First thing, this is insane to see how much a year looks short when we look at this time view. Then, the idea of using color squares to represent days and visualize consistency through a month or a year like this way is a very clever manner.
-
 Then, I drafted some week patterns according to different types of habits. For instance, pattern A could suit a daily habit that you want to break during weekends, whereas pattern B would be perfect for habits that could need more time in a day when you have a lot of free time on weekends (like DIY projects). The idea would be to allows users to draw their own week patterns to set days when they want to repeat the habit, and then they will be able to visualize their consistency during the current or past months.
+
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_week_pattern.JPG)
+
+###### Some Week Pattern for different kind of habits
 
 **Challenge Friends -** We all know that launch a new habit with someone else is much more motivating that go into it alone. We help each other, give pieces of advice, and motivate friends not to give up. To integrate that possibility to share a habit with friends to challenge them sounds like a good feature to add.
 
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_request_wireframes.JPG)
+
+###### Wireframes for the Challenge Request Part
+
 **Milestones & Long-Term Vision -** One of the main pain points about building new habits is to... make it a real habit, so not to give it up. At this point, I've understood that I will need to bring a long-term vision to those habits, in order to give real value to keep it doing. Users need to feel their improvement and benefits. Then, milestones came to me as a great idea. We also need to keep going step by step and archive goals one after another.
+
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_milestones_draft.JPG)
 
 **Day Status -** I spent some time working on the day status style: how to make the difference between days when the habit should be done, days when it's not planned, days that users missed, and today's day. I've started some iterations by using the primary color for the current day and day when the habit was done, and two other different styles for future days when it's planned and when it's not. But it turns out too complicated and less accessible because there were too many styles. I made several iterations to simplify the thing, and finally, reach a much clearer solution (the last image at the bottom right).
 
-![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_day_status_iterations.JPG)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_day_status_iterations.png)
+
+###### Day Status Iterations
 
 ## Solution & Features
 
