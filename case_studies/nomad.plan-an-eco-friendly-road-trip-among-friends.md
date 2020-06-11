@@ -1,6 +1,6 @@
 ---
 date: 2020-06-07
-project_date: 2020-05-04T23:00:00Z
+project_date: 2020-06-06T23:00:00Z
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_trumbnail.png
 title: Nomad. Plan an eco-friendly road-trip among friends
 intro: I love to travel and I'll always love it. If you ask me what is the thing I
