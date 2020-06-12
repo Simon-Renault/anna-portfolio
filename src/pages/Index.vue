@@ -33,7 +33,7 @@
                
             </div>
             <!-- main projects-->
-            <h1 class="project_title margin-body">Main Projects</h1>
+            <h1 class="project_title margin-body">Side Projects</h1>
             <div class="main_projects projects_section grid-col2">
 
                 <div class="card_project margin_right" v-for="item in $page.Projects.edges" :key="item.id">
