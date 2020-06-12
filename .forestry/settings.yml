@@ -13,7 +13,7 @@ sections:
   - project
 - type: directory
   path: projects
-  label: Projects
+  label: Side Projects
   create: documents
   match: "**/*.md"
   templates:
