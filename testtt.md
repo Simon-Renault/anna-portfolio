@@ -1,1 +1,2 @@
-my new file contents
+my new file contents 
+un second commit
