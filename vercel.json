@@ -2,6 +2,6 @@
   "redirects": [
     { "source": "/english/ux-en.html", "destination": "/" },
     { "source": "/english/ui-en.html", "destination": "/" },
-    { "source": "/index.html", "destination": "/" },
+    { "source": "/index.html", "destination": "/" }
   ]
 }
