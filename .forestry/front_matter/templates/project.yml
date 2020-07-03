@@ -46,6 +46,18 @@ fields:
       format: markdown
   label: intro
   description: quick intro to the project
+- name: last_project
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: case-studies
+      file: 
+      path: 
+  label: last project
 pages:
 - case_studies/create-a-user-centric-cms-for-software-agents.md
 - case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md
